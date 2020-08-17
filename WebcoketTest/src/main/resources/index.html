@@ -1,0 +1,72 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Test My WebSocket</title>
+</head>
+
+
+<body>
+
+My WebSocket Test
+
+<input  id="text" type="text" />
+
+<button onclick="send()">send message</button>
+
+<button onclick="closeWebSocket()">close</button>
+
+<div id="message"></div>
+
+</body>
+
+<script type="text/javascript">
+    var websocket = null;
+
+    //判断当前浏览器是否支持WebSocket
+    if('WebSocket' in window){
+        //连接WebSocket节点
+        websocket = new WebSocket("ws://localhost:6376/yanghui/test");
+    }
+    else{
+        alert('Not support websocket')
+    }
+
+
+    //连接成功建立的回调方法
+    websocket.onopen = function(event){
+        setMessageInnerHTML("get websocket connect");
+    }
+
+
+    //接收到消息的回调方法
+    websocket.onmessage = function(event){
+        setMessageInnerHTML(event.data);
+    }
+
+
+    //连接关闭的回调方法
+    websocket.onclose = function(){
+        setMessageInnerHTML("close");
+    }
+
+
+    //将消息显示在网页上
+    function setMessageInnerHTML(innerHTML){
+        document.getElementById('message').innerHTML += innerHTML + '<br/>';
+    }
+
+
+    //关闭连接
+    function closeWebSocket(){
+        websocket.close();
+    }
+
+
+    //发送消息
+    function send(){
+        var message = document.getElementById('text').value;
+        websocket.send(message);
+    }
+</script>
+
+</html>
