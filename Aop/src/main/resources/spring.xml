@@ -1,0 +1,22 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+
+     <!--第二种 原始注解方式-->
+    <bean class="com.yanghui.aop.TestAopTwo" id="testAopTwo"/>
+
+    <bean class="com.yanghui.aop.LogTwo" id="logTwo"/>
+
+    <aop:config>
+        <aop:pointcut id="pointTest" expression="execution(* com.yanghui.aop.TestAopTwo.testOne())"/>
+        <aop:aspect ref="logTwo">
+            <aop:before method="beforeTwo" pointcut-ref="pointTest"/>
+            <aop:after method="afterTwo" pointcut-ref="pointTest"/>
+        </aop:aspect>
+    </aop:config>
+
+</beans>

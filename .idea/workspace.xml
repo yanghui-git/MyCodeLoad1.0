@@ -1,9 +1,216 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c545ebe7-41d0-43ef-8970-36b0f124ea71" name="Default" comment="" />
+    <list default="true" id="c545ebe7-41d0-43ef-8970-36b0f124ea71" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_8_4_190508.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_7_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_7_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_junrar_junrar_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_api_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_44.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_all_5_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_vfs2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_api_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_svn_commons_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_svnexe_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_1_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_3_8_v20160314.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_3_8_v20160314.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_15_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_lz4_lz4_java_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jms_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_3_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__regexp_regexp_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/activemq.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/ActiveMqMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/Service/ActiveMqTestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/jms/MqConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/jms/note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/jms/util/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/jms/util/MessageTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/jms/util/MqConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/jms/util/MqProduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/queue/EasyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/queue/FileCopyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/queue/QueueModuleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/queue/RarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/queue/ThreadTestTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/queue/ZipTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/topic/TopicModuleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/src/main/resources/spring-activemq-all.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/src/main/resources/spring-mq-consumer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/src/main/resources/spring-mq-produce.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/target/classes/spring-activemq-all.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/target/classes/spring-mq-consumer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/target/classes/spring-mq-produce.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/target/classes/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActiveMq/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aop/AOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dubbo/Dubbo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dubbo/dubbo.test.one/dubbo.test.one.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dubbo/dubbo.test.two/dubbo.test.two.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exector/Exector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GetConfig/GetConfigTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kafka/Kafka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mybatics/Mybatics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quartz/Quartz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Redis/Redis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/SpringDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/src/main/java/com/yanghui/test/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/src/main/java/com/yanghui/test/controller/ThreadLocalControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/src/main/java/com/yanghui/test/demo/StaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/src/main/java/com/yanghui/test/demo/TestOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/src/main/java/com/yanghui/test/filter/AuthFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/src/main/java/com/yanghui/test/filter/OpenrationUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/src/main/java/com/yanghui/test/filter/ThreadLoacalUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/target/classes/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEasy/SpringEasy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Websocket/WebcoketTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MyCodeRecord.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyCodeRecord.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_2_9_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_2_9_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExectorTest/ExectorTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExectorTest/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExectorTest/src/main/java/ConcurenExecutorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExectorTest/src/main/java/ExcutorServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExectorTest/src/main/java/ExcutorsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExectorTest/src/main/java/ScheduleThreadPoolExcutorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExectorTest/src/main/java/ThreadPoolExcutorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebcoketTest/WebcoketTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebcoketTest/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebcoketTest/src/main/java/com/yanghui/websocket/WebsocketMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebcoketTest/src/main/java/com/yanghui/websocket/test/Websocket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebcoketTest/src/main/java/com/yanghui/websocket/test/WebsocketConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebcoketTest/src/main/java/com/yanghui/websocket/test/WebsocketData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebcoketTest/src/main/java/com/yanghui/websocket/test/WebsocketJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebcoketTest/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebcoketTest/src/main/resources/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebcoketTest/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebcoketTest/target/classes/com/yanghui/websocket/WebsocketMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebcoketTest/target/classes/com/yanghui/websocket/test/Websocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebcoketTest/target/classes/com/yanghui/websocket/test/WebsocketConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebcoketTest/target/classes/com/yanghui/websocket/test/WebsocketData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebcoketTest/target/classes/com/yanghui/websocket/test/WebsocketJob.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebcoketTest/target/classes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/WebcoketTest/target/" />
+    <ignored path="$PROJECT_DIR$/ExectorTest/target/" />
+    <ignored path="$PROJECT_DIR$/ActiveMq/target/" />
+    <ignored path="$PROJECT_DIR$/AopTest/target/" />
+    <ignored path="$PROJECT_DIR$/DubboTest/dubbo.test.one/target/" />
+    <ignored path="$PROJECT_DIR$/DubboTest/dubbo.test.two/target/" />
+    <ignored path="$PROJECT_DIR$/DubboTest/target/" />
+    <ignored path="$PROJECT_DIR$/EasyTest/target/" />
+    <ignored path="$PROJECT_DIR$/GetConfigTest/target/" />
+    <ignored path="$PROJECT_DIR$/KafkaTest/target/" />
+    <ignored path="$PROJECT_DIR$/MybaticsTest/target/" />
+    <ignored path="$PROJECT_DIR$/QuartTest/target/" />
+    <ignored path="$PROJECT_DIR$/RedisTest/target/" />
+    <ignored path="$PROJECT_DIR$/SpringDemo/target/" />
+    <ignored path="$PROJECT_DIR$/Aop/target/" />
+    <ignored path="$PROJECT_DIR$/Dubbo/target/" />
+    <ignored path="$PROJECT_DIR$/Dubbo/dubbo.test.two/target/" />
+    <ignored path="$PROJECT_DIR$/Exector/target/" />
+    <ignored path="$PROJECT_DIR$/Dubbo/dubbo.test.one/target/" />
+    <ignored path="$PROJECT_DIR$/GetConfig/target/" />
+    <ignored path="$PROJECT_DIR$/Kafka/target/" />
+    <ignored path="$PROJECT_DIR$/Mybatics/target/" />
+    <ignored path="$PROJECT_DIR$/Redis/target/" />
+    <ignored path="$PROJECT_DIR$/Quartz/target/" />
+    <ignored path="$PROJECT_DIR$/SpringEasy/target/" />
+    <ignored path="$PROJECT_DIR$/Websocket/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +219,54 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dubbo/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="15" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KafkaTestTwo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Kafka/src/main/java/com/yanghui/kafka/service/KafkaTestTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1379#1591#0" expanded="true" />
+                <element signature="e#1590#1591#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuartzTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Quartz/src/main/java/com/yanghui/quartz/QuartzTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="150" column="41" selection-start-line="150" selection-start-column="41" selection-end-line="150" selection-end-column="41" />
+              <folding>
+                <element signature="e#3447#4361#0" expanded="true" />
+                <element signature="e#4360#4361#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadLoacalUtil.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SpringDemo/src/main/java/com/yanghui/test/filter/ThreadLoacalUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="91" selection-start-line="4" selection-start-column="91" selection-end-line="4" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,8 +274,28 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/WebcoketTest/pom.xml" />
+        <option value="$PROJECT_DIR$/ExectorTest/pom.xml" />
+        <option value="$PROJECT_DIR$/AopTest/pom.xml" />
+        <option value="$PROJECT_DIR$/DubboTest/dubbo.test.one/pom.xml" />
+        <option value="$PROJECT_DIR$/DubboTest/dubbo.test.two/pom.xml" />
+        <option value="$PROJECT_DIR$/DubboTest/pom.xml" />
+        <option value="$PROJECT_DIR$/EasyTest/pom.xml" />
+        <option value="$PROJECT_DIR$/GetConfigTest/pom.xml" />
+        <option value="$PROJECT_DIR$/KafkaTest/pom.xml" />
+        <option value="$PROJECT_DIR$/MybaticsTest/pom.xml" />
+        <option value="$PROJECT_DIR$/QuartTest/pom.xml" />
+        <option value="$PROJECT_DIR$/RedisTest/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/Exector/pom.xml" />
+        <option value="$PROJECT_DIR$/GetConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/Websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ActiveMq/pom.xml" />
+        <option value="$PROJECT_DIR$/Aop/pom.xml" />
+        <option value="$PROJECT_DIR$/Dubbo/dubbo.test.two/pom.xml" />
+        <option value="$PROJECT_DIR$/Dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/Quartz/src/main/java/com/yanghui/quartz/QuartzTest.java" />
       </list>
     </option>
   </component>
@@ -42,21 +316,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="MycodeRecord" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="WebcoketTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="WebcoketTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -79,8 +339,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -88,17 +347,53 @@
               <item name="MyCodeRecord" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyCodeRecord" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MyCodeRecord" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyCodeRecord" type="462c0819:PsiDirectoryNode" />
+              <item name="Dubbo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyCodeRecord" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyCodeRecord" type="462c0819:PsiDirectoryNode" />
+              <item name="Dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo.test.one" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyCodeRecord" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyCodeRecord" type="462c0819:PsiDirectoryNode" />
+              <item name="Dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo.test.two" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyCodeRecord" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyCodeRecord" type="462c0819:PsiDirectoryNode" />
+              <item name="Dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo.test.two" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyCodeRecord" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyCodeRecord" type="462c0819:PsiDirectoryNode" />
+              <item name="Exector" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyCodeRecord" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyCodeRecord" type="462c0819:PsiDirectoryNode" />
+              <item name="Websocket" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="ThreadLoacalUtil&#9;PSI&#9;JAVA://com.yanghui.test.filter.ThreadLoacalUtil&#10;QuartzTest&#9;PSI&#9;JAVA://com.yanghui.quartz.QuartzTest&#10;KafkaTestTwo&#9;PSI&#9;JAVA://com.yanghui.kafka.service.KafkaTestTwo&#10;EasyTest&#9;PSI&#9;JAVA://com.yanghui.activemq.queue.EasyTest" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ExectorTest/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Websocket/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -109,6 +404,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\桌面\MyCodeRecord" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\桌面\MyCodeRecord\Exector\src" />
+      <recent name="D:\桌面\MyCodeRecord\ActiveMq\src\main\java\com" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -176,47 +475,50 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597646656239</updated>
-      <workItem from="1597646657629" duration="1947000" />
+      <workItem from="1597646657629" duration="3429000" />
+      <workItem from="1597650560454" duration="259000" />
+      <workItem from="1597650840723" duration="1041000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1947000" />
+    <option name="totallyTimeSpent" value="4729000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.26492536" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" weight="0.3293348" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.26439232" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
+      <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" weight="0.3293348" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.2606325" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="right" id="Bean Validation" />
-      <window_info id="Web" side_tool="true" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4989339" weight="0.34678298" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.3740458" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.40130863" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,17 +544,6 @@
                   </UserGroup>
                 </collection>
               </option>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
               <option name="COLUMN_ORDER">
                 <list>
                   <option value="0" />
@@ -271,64 +562,231 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="488" height="435" key="Git.Branch.Popup" />
-    <state width="488" height="435" key="Git.Branch.Popup/1920.1080" />
-    <state width="488" height="435" key="Git.Branch.Popup@1920.1080" />
+    <state width="490" height="437" key="Git.Branch.Popup" />
+    <state width="490" height="437" key="Git.Branch.Popup/1920.1080" />
+    <state width="490" height="437" key="Git.Branch.Popup@1920.1080" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WebcoketTest/pom.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebcoketTest/src/main/java/com/yanghui/websocket/test/WebsocketConfig.java">
+    <entry file="file://$PROJECT_DIR$/WebcoketTest/src/main/java/com/yanghui/websocket/test/WebsocketConfig.java" />
+    <entry file="file://$PROJECT_DIR$/WebcoketTest/src/main/java/com/yanghui/websocket/test/WebsocketJob.java" />
+    <entry file="file://$PROJECT_DIR$/WebcoketTest/src/main/java/com/yanghui/websocket/test/Websocket.java" />
+    <entry file="file://$PROJECT_DIR$/WebcoketTest/src/main/java/com/yanghui/websocket/WebsocketMain.java" />
+    <entry file="file://$PROJECT_DIR$/WebcoketTest/src/main/java/com/yanghui/websocket/test/WebsocketData.java" />
+    <entry file="file://$PROJECT_DIR$/ExectorTest/src/main/java/ExcutorsTest.java" />
+    <entry file="file://$PROJECT_DIR$/ExectorTest/src/main/java/ExcutorServiceTest.java" />
+    <entry file="file://$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/jms/note.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/jms/MqConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AopTest/src/main/java/com/yanghui/aop/Log.java" />
+    <entry file="file://$PROJECT_DIR$/ExectorTest/src/main/java/ConcurenExecutorTest.java" />
+    <entry file="file://$PROJECT_DIR$/ExectorTest/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/ActiveMqMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/jms/util/MqConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/jms/util/MessageTwo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebcoketTest/src/main/java/com/yanghui/websocket/test/WebsocketJob.java">
+    <entry file="file://$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/jms/util/Message.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="90">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebcoketTest/src/main/java/com/yanghui/websocket/test/Websocket.java">
+    <entry file="file://$PROJECT_DIR$/AopTest/src/main/java/AopMainTest.java" />
+    <entry file="file://$PROJECT_DIR$/AopTest/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/DubboTest/dubbo.test.two/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/DubboTest/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/EasyTest/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/DubboTest/dubbo.test.one/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/GetConfigTest/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/KafkaTest/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/MybaticsTest/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/WebcoketTest/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/RedisTest/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/QuartTest/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/SpringDemo/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        <state relative-caret-position="288">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kafka/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aop/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exector/src/main/java/ExcutorsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetConfig/GetConfigTest.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ActiveMq/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-311">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetConfig/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exector/src/main/java/ConcurenExecutorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebcoketTest/src/main/java/com/yanghui/websocket/WebsocketMain.java">
+    <entry file="file://$PROJECT_DIR$/Dubbo/dubbo.test.one/src/main/java/com/yanghui/dubboone/DubboTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebcoketTest/src/main/java/com/yanghui/websocket/test/WebsocketData.java">
+    <entry file="file://$PROJECT_DIR$/Dubbo/dubbo.test.one/dubbo.test.one.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/queue/EasyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="188">
+          <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dubbo/Dubbo.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="486">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Websocket/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" selection-start-line="5" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exector/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dubbo/dubbo.test.two/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-550">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dubbo/dubbo.test.one/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dubbo/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kafka/src/main/java/com/yanghui/kafka/service/KafkaTestTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1379#1591#0" expanded="true" />
+            <element signature="e#1590#1591#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Quartz/src/main/java/com/yanghui/quartz/QuartzTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="150" column="41" selection-start-line="150" selection-start-column="41" selection-end-line="150" selection-end-column="41" />
+          <folding>
+            <element signature="e#3447#4361#0" expanded="true" />
+            <element signature="e#4360#4361#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringDemo/src/main/java/com/yanghui/test/filter/ThreadLoacalUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="91" selection-start-line="4" selection-start-column="91" selection-end-line="4" selection-end-column="91" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
@@ -382,12 +840,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>MyCodeRecord</last-edited>
+          <last-edited>Web|activemq.test</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -418,5 +875,10 @@
         </settings>
       </state>
     </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="clean package -Dmaven.test.skip=true" />
+    <option value="idea:module" />
   </component>
 </project>

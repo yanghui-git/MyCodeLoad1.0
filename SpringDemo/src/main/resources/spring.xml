@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xmlns="http://www.springframework.org/schema/beans"
+	   xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        ">
+
+	<!--https://www.cnblogs.com/lonske/p/9057489.html -->
+
+	<!--https://www.cnblogs.com/JoeyWong/p/9304913.html-->
+	<!--Spring配置文件中指定init-method属性的作用-->
+
+    <!--懒加载 概念    需要对象时才去创建 ，节省资源，但是不利于以前发现错误-->
+	<!--非赖加载 概念   容器启动的时候 立刻创建对象，消耗资源，利于提前发现错误-->
+    <!--azy-init 是否开启懒加载-->
+
+   <!--<bean id="testOne" class="com.yanghui.test.demo.TestOne" init-method="intiOne" />  &lt;!&ndash;输出&ndash;&gt;-->
+
+
+	<!--<bean id="testOne" class="com.yanghui.test.demo.TestOne" init-method="intiOne" lazy-init="true"/>  &lt;!&ndash;NO输出&ndash;&gt;-->
+
+
+	<!--当scope=“singleton” (单例)时，默认以非懒加载的方式产生对象。-->
+	<!--<bean id="testOne" class="com.yanghui.test.demo.TestOne" init-method="intiOne" lazy-init="default" scope="singleton"/> 输出-->
+
+	<!--当scope=“prototype” (多例)时，默认以懒加载的方式产生对象。-->
+	<!--<bean id="testOne" class="com.yanghui.test.demo.TestOne" init-method="intiOne" lazy-init="default" scope="prototype"/> 不输出-->
+
+</beans>

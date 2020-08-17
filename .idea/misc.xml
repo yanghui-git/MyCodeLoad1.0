@@ -9,6 +9,26 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/WebcoketTest/pom.xml" />
         <option value="$PROJECT_DIR$/ExectorTest/pom.xml" />
+        <option value="$PROJECT_DIR$/ActiveMq/pom.xml" />
+        <option value="$PROJECT_DIR$/AopTest/pom.xml" />
+        <option value="$PROJECT_DIR$/DubboTest/pom.xml" />
+        <option value="$PROJECT_DIR$/EasyTest/pom.xml" />
+        <option value="$PROJECT_DIR$/GetConfigTest/pom.xml" />
+        <option value="$PROJECT_DIR$/KafkaTest/pom.xml" />
+        <option value="$PROJECT_DIR$/MybaticsTest/pom.xml" />
+        <option value="$PROJECT_DIR$/QuartTest/pom.xml" />
+        <option value="$PROJECT_DIR$/RedisTest/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/Aop/pom.xml" />
+        <option value="$PROJECT_DIR$/Dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/Exector/pom.xml" />
+        <option value="$PROJECT_DIR$/GetConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/Kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/Mybatics/pom.xml" />
+        <option value="$PROJECT_DIR$/Quartz/pom.xml" />
+        <option value="$PROJECT_DIR$/Redis/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringEasy/pom.xml" />
+        <option value="$PROJECT_DIR$/Websocket/pom.xml" />
       </list>
     </option>
   </component>
