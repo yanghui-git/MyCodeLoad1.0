@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExectorTest/ExectorTest.iml" filepath="$PROJECT_DIR$/ExectorTest/ExectorTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MyCodeRecord.iml" filepath="$PROJECT_DIR$/.idea/MyCodeRecord.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebcoketTest/WebcoketTest.iml" filepath="$PROJECT_DIR$/WebcoketTest/WebcoketTest.iml" />
     </modules>

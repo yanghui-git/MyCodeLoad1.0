@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ExectorTest" />
         <module name="WebcoketTest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ExectorTest" target="7" />
       <module name="MyCodeRecord" target="1.5" />
       <module name="WebcoketTest" target="1.5" />
     </bytecodeTargetLevel>
