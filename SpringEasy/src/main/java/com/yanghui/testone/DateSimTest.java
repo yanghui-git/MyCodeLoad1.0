@@ -29,9 +29,15 @@ public class DateSimTest {
         System.out.println(new Date().getTime());
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         String ss = "2020-03-19 15:57:01";
-        System.out.println(simpleDateFormat.parse(ss));
+      //  System.out.println(simpleDateFormat.parse(ss));
         Date date = simpleDateFormat.parse(ss);
         System.out.println(date.getTime());
+
+        SimpleDateFormat dateFormat=new SimpleDateFormat("yyyy-MM-dd");
+                String sss="2020-08-18 ";
+        System.out.println(dateFormat.parse(sss).getTime());
+
+        System.out.println("1".compareTo("0"));
     }
 
 

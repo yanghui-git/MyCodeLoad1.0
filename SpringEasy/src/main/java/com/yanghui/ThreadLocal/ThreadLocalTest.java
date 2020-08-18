@@ -2,17 +2,17 @@ package com.yanghui.ThreadLocal;
 
 public class ThreadLocalTest {
 
-    public static void main(String[] args) {
-        task task = new task();
-        for (int i = 0; i < 5; i++) {
-            new Thread(() -> System.out.println(Thread.currentThread().getName() + ":: " + task.cal(10))).start();
-        }
-
-        taskTwo taskTwo = new taskTwo();
-        for (int i = 0; i < 5; i++) {
-            new Thread(() -> System.out.println("222" + Thread.currentThread().getName() + "thread local " + taskTwo.cal(10).toString())).start();
-        }
-    }
+//    public static void main(String[] args) {
+//        task task = new task();
+//        for (int i = 0; i < 5; i++) {
+//            new Thread(() -> System.out.println(Thread.currentThread().getName() + ":: " + task.cal(10))).start();
+//        }
+//
+//        taskTwo taskTwo = new taskTwo();
+//        for (int i = 0; i < 5; i++) {
+//            new Thread(() -> System.out.println("222" + Thread.currentThread().getName() + "thread local " + taskTwo.cal(10).toString())).start();
+//        }
+//    }
 
 
     static class task {

@@ -64,7 +64,7 @@ public class SerializeUtil {
 	/**
 	 * 暂不支持复杂嵌套  JSON转list
 	 */
-	public static <T> List<T> decodeJsonList(String json, Class<T> cls) {
+	public static <T> List<T> decodeJsonList(String json, final Class<T> cls) {
 	    List<Object> result=new ArrayList<>();
 		try {
 			result= getObjectMapper().readValue(json, new TypeReference<List<T>>() {

@@ -31,8 +31,8 @@ public class FileTest {
     }
 
     public static void main(String args[]) {
-        File file = new File("C:\\Users\\yanghui\\Desktop\\test.yaml");
-        Map<String, Long> fileTime = new HashMap<>();
+        final File file = new File("C:\\Users\\yanghui\\Desktop\\test.yaml");
+        final Map<String, Long> fileTime = new HashMap<>();
         TimerTask timerTask = new TimerTask() {
             @Override
             public void run() {

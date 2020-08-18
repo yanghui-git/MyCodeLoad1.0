@@ -67,66 +67,66 @@ public class GroupByTest {
     /**
      * 聚合
      */
-    @Test
-    public void groupTest() {
-        Student student1 = new Student("Cicso", "1.txt");
-        Student student2 = new Student("Cicso", "2.txt");
-        Student student3 = new Student("H3C", "h3c1");
-        Student student4 = new Student("H3C", "h3c2");
-        Student student5 = new Student("test", "tettt");
-        List<Student> studentList = new ArrayList<>();
-        studentList.add(student1);
-        studentList.add(student2);
-        studentList.add(student3);
-        studentList.add(student4);
-        studentList.add(student5);
-
-        System.out.println("    gyh h".trim().length());
-
-        List<String> test = new ArrayList<>();
-        test = studentList.stream().map(testtt -> testtt.getName()).collect(Collectors.toList());
-        System.out.println(JSON.toJSONString(test));
-
-        Map<String, List<Student>> resultTwo = new HashMap<>();
-
-        resultTwo = studentList.stream().collect(Collectors.groupingBy(testttt -> {
-            return testttt.getName();
-        }));
-        Map<String, List<String>> re = new HashMap<>();
-
-        for (String key : resultTwo.keySet()) {
-            List<String> result = new ArrayList<>();
-            resultTwo.get(key).stream().forEach(ss ->
-                    result.add(ss.getAge())
-            );
-            re.put(key, result);
-        }
-        System.out.println("666"+JSON.toJSONString(re));
+//    @Test
+//    public void groupTest() {
+//        Student student1 = new Student("Cicso", "1.txt");
+//        Student student2 = new Student("Cicso", "2.txt");
+//        Student student3 = new Student("H3C", "h3c1");
+//        Student student4 = new Student("H3C", "h3c2");
+//        Student student5 = new Student("test", "tettt");
+//        List<Student> studentList = new ArrayList<>();
+//        studentList.add(student1);
+//        studentList.add(student2);
+//        studentList.add(student3);
+//        studentList.add(student4);
+//        studentList.add(student5);
+//
+//        System.out.println("    gyh h".trim().length());
+//
+//        List<String> test = new ArrayList<>();
+//        test = studentList.stream().map(testtt -> testtt.getName()).collect(Collectors.toList());
+//        System.out.println(JSON.toJSONString(test));
+//
+//        Map<String, List<Student>> resultTwo = new HashMap<>();
+//
+//        resultTwo = studentList.stream().collect(Collectors.groupingBy(testttt -> {
+//            return testttt.getName();
+//        }));
+//        Map<String, List<String>> re = new HashMap<>();
+//
+//        for (String key : resultTwo.keySet()) {
+//            List<String> result = new ArrayList<>();
+//            resultTwo.get(key).stream().forEach(ss ->
+//                    result.add(ss.getAge())
+//            );
+//            re.put(key, result);
+//        }
+//        System.out.println("666"+JSON.toJSONString(re));
 //        JSONObject jsonObject =new JSONObject();
 //        jsonObject.put("errCode","200");
 //        jsonObject.put("message","get data success");
 //        jsonObject.put("data",resultTwo);
 //        System.out.println(JSON.toJSONString(jsonObject));
 
-        System.out.println(JSON.toJSONString(resultTwo));
+//        System.out.println(JSON.toJSONString(resultTwo));
+//
+//        Map<String, List<String>> result = new HashMap<>();
+//
+//        for (Student student : studentList) {
+//            result.put(student.getName(), new ArrayList<>());
+//        }
+//
+//        for (String key : result.keySet()) {
+//            List<String> ss = new ArrayList<>();
+//            for (Student student : studentList) {
+//                if (student.getName().equals(key)) {
+//                    ss.add(student.getAge());
+//                }
+//            }
+//            result.put(key, ss);
+//        }
+//
+//        System.out.println(JSON.toJSONString(result));
 
-        Map<String, List<String>> result = new HashMap<>();
-
-        for (Student student : studentList) {
-            result.put(student.getName(), new ArrayList<>());
-        }
-
-        for (String key : result.keySet()) {
-            List<String> ss = new ArrayList<>();
-            for (Student student : studentList) {
-                if (student.getName().equals(key)) {
-                    ss.add(student.getAge());
-                }
-            }
-            result.put(key, ss);
-        }
-
-        System.out.println(JSON.toJSONString(result));
-
-    }
+   //}
 }

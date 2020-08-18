@@ -92,38 +92,38 @@ public class HttpUtil {
     }
 
 
-    @Test
-    public void getTwo() {
-        CloseableHttpClient httpClient = HttpClients.createDefault();
-        HttpResponse httpResponse;
-        String url = "http://10.1.200.204/store/openapi/v2/models/metrics/get?apikey=e10adc3949ba59abbe56e057f2gg88dd&code=tomcat.servlet.error_count";
-        if (url.startsWith("https")) {
-            httpClient = createSSLInsecureClient();
-        }
-        HttpGet httpGet = new HttpGet(url);
-        try {
-            httpResponse = httpClient.execute(httpGet);
-            HttpEntity httpEntity = httpResponse.getEntity();
-            System.out.println(EntityUtils.toString(httpEntity, "utf-8"));
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-    }
-
-    //Https开头的特殊请求
-    private static CloseableHttpClient createSSLInsecureClient() {
-        try {
-            SSLContext sslContext = new SSLContextBuilder().loadTrustMaterial(null, (chain, authType) -> {
-                return true; //信任所有
-            }).build();
-            SSLConnectionSocketFactory sslsf = new SSLConnectionSocketFactory(sslContext, NoopHostnameVerifier.INSTANCE);
-            return HttpClients.custom().setSSLSocketFactory(sslsf).build();
-        } catch (Exception e) {
-
-        }
-        return HttpClients.createDefault();
-    }
+//    @Test
+//    public void getTwo() {
+//        CloseableHttpClient httpClient = HttpClients.createDefault();
+//        HttpResponse httpResponse;
+//        String url = "http://10.1.200.204/store/openapi/v2/models/metrics/get?apikey=e10adc3949ba59abbe56e057f2gg88dd&code=tomcat.servlet.error_count";
+//        if (url.startsWith("https")) {
+//            httpClient = createSSLInsecureClient();
+//        }
+//        HttpGet httpGet = new HttpGet(url);
+//        try {
+//            httpResponse = httpClient.execute(httpGet);
+//            HttpEntity httpEntity = httpResponse.getEntity();
+//            System.out.println(EntityUtils.toString(httpEntity, "utf-8"));
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
+//
+//    }
+//
+//    //Https开头的特殊请求
+//    private static CloseableHttpClient createSSLInsecureClient() {
+//        try {
+//            SSLContext sslContext = new SSLContextBuilder().loadTrustMaterial(null, (chain, authType) -> {
+//                return true; //信任所有
+//            }).build();
+//            SSLConnectionSocketFactory sslsf = new SSLConnectionSocketFactory(sslContext, NoopHostnameVerifier.INSTANCE);
+//            return HttpClients.custom().setSSLSocketFactory(sslsf).build();
+//        } catch (Exception e) {
+//
+//        }
+//        return HttpClients.createDefault();
+//    }
 
     @Test
     public void postOne() {

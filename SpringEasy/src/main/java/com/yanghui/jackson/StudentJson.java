@@ -60,48 +60,48 @@ public class StudentJson {
         Map<Object, Object> mapTwo = SerializeUtil.decodeJson(jsonOne, Map.class);
         System.out.println(mapTwo.get("name"));
     }
-
-    @Test
-    public void testJsonThree() {
-        List<StudentJson> studentJsonList = new ArrayList<>();
-        for (int i = 1; i < 4; i++) {
-            StudentJson studentJson = new StudentJson();
-            studentJson.setName("yy" + i);
-            studentJson.setAge("20" + i);
-            studentJson.setListTest(new ArrayList<>());
-            studentJsonList.add(studentJson);
-        }
-        //list 转json
-        String json = SerializeUtil.encodeJson(studentJsonList);
-        System.out.println(json);
-        //json转list
-        List<StudentJson> studentJsonListTwo = SerializeUtil.decodeJsonList(json, StudentJson.class);
-        System.out.println(studentJsonListTwo.toString());
-        System.out.println();
-        System.out.println();
-        System.out.println();
-
-
-        System.out.println(SerializeUtil.encodeJson(studentJsonListTwo));
-        Object object = JSON.parse(SerializeUtil.encodeJson(studentJsonListTwo));
-
-        System.out.println(object);
-
-        //json转map
-        List<HashMap> testMap=SerializeUtil.decodeJsonList(json,HashMap.class);
-        System.out.println("testMap"+JSON.toJSONString(testMap));
-
-    }
-
-    @Test
-    public void ttt() {
-        Double ss = Double.valueOf("22.11");
-        Double ssss=Double.parseDouble("2.1122");
-        System.out.println(ss);
-        System.out.println(ssss);
-
-        System.out.println(String.format("get data from datasource failed ; urls %s %s ; errMessage %s ","11","22","3"));
-    }
+//
+//    @Test
+//    public void testJsonThree() {
+//        List<StudentJson> studentJsonList = new ArrayList<>();
+//        for (int i = 1; i < 4; i++) {
+//            StudentJson studentJson = new StudentJson();
+//            studentJson.setName("yy" + i);
+//            studentJson.setAge("20" + i);
+//            studentJson.setListTest(new ArrayList<>());
+//            studentJsonList.add(studentJson);
+//        }
+//        //list 转json
+//        String json = SerializeUtil.encodeJson(studentJsonList);
+//        System.out.println(json);
+//        //json转list
+//        List<StudentJson> studentJsonListTwo = SerializeUtil.decodeJsonList(json, StudentJson.class);
+//        System.out.println(studentJsonListTwo.toString());
+//        System.out.println();
+//        System.out.println();
+//        System.out.println();
+//
+//
+//        System.out.println(SerializeUtil.encodeJson(studentJsonListTwo));
+//        Object object = JSON.parse(SerializeUtil.encodeJson(studentJsonListTwo));
+//
+//        System.out.println(object);
+//
+//        //json转map
+//        List<HashMap> testMap=SerializeUtil.decodeJsonList(json,HashMap.class);
+//        System.out.println("testMap"+JSON.toJSONString(testMap));
+//
+//    }
+//
+//    @Test
+//    public void ttt() {
+//        Double ss = Double.valueOf("22.11");
+//        Double ssss=Double.parseDouble("2.1122");
+//        System.out.println(ss);
+//        System.out.println(ssss);
+//
+//        System.out.println(String.format("get data from datasource failed ; urls %s %s ; errMessage %s ","11","22","3"));
+//    }
 
     @Test
     public void testttt(){
