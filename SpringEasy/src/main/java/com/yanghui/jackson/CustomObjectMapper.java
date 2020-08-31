@@ -21,7 +21,9 @@ public class CustomObjectMapper extends ObjectMapper {
 		instance = this;
 		SimpleModule module = new SimpleModule("RestModule");
 		this.registerModule(module);	
-		this.configure(SerializationFeature.INDENT_OUTPUT, true);
+	//	this.configure(SerializationFeature.INDENT_OUTPUT, true);
+		//是否美化输出 即有无换行等
+		this.configure(SerializationFeature.INDENT_OUTPUT, false);
 		this.configure(SerializationFeature.WRAP_ROOT_VALUE, false);
 		this.configure(SerializationFeature.WRITE_ENUMS_USING_INDEX, false);
 		this.configure(SerializationFeature.WRITE_ENUMS_USING_TO_STRING, true);

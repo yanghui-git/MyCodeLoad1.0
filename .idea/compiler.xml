@@ -42,7 +42,7 @@
       <module name="Redis" target="1.5" />
       <module name="redis.test" target="1.5" />
       <module name="SpringDemo" target="7" />
-      <module name="SpringEasy" target="7" />
+      <module name="SpringEasy" target="8" />
       <module name="WebcoketTest" target="1.5" />
     </bytecodeTargetLevel>
   </component>

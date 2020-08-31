@@ -1,8 +1,9 @@
 package com.yanghui.jackson;
 
+import com.alibaba.fastjson.JSON;
 import org.junit.Test;
 
-import java.util.Date;
+import java.util.*;
 
 public class StringFormatTest {
 
@@ -38,5 +39,35 @@ public class StringFormatTest {
 
     }
 
+    @Test
+    public void testttssth() {
+        String json ="\"{\"requiredFields\":[\"field1\"]}\"";
+        System.out.println(json);
+        DataSetFilter dataSetFilter =SerializeUtil.decodeJson(json,DataSetFilter.class);
+
+    }
+
+    @Test
+    public void testttssthL() {
+        String json ="\\\"1";
+        System.out.println(json);
+        System.out.println("\\\"");
+        System.out.println(json.contains("\\\""));
+        System.out.println(json.replaceAll("\\\\\\\"","\\\""));
+        Map map =new HashMap();
+        map.put("1","22222");
+        map.put("2","444");
+        map.put("3",Collections.singletonList(1));
+        System.out.println(SerializeUtil.encodeJson(map));
+    }
+
+    @Test
+            public void oo(){
+               StudentJson studentJson =new StudentJson();
+               studentJson.setAge("20");
+               studentJson.setName("test");
+               studentJson.setListTest(Collections.singletonList("2222"));
+               System.out.println(SerializeUtil.encodeJson(studentJson));
+    }
 
 }

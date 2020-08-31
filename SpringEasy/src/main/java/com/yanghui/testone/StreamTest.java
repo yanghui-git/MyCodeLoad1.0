@@ -6,7 +6,7 @@ import org.junit.Test;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 import java.util.*;
-import java.util.stream.Collectors;
+
 
 public class StreamTest {
 

@@ -2,17 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c545ebe7-41d0-43ef-8970-36b0f124ea71" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/compare/StringCompareTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/DataSetFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/ResultData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/WSParmas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dubbo/dubbo.test.one/dubbo.test.one.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Dubbo/dubbo.test.one/dubbo.test.one.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dubbo/dubbo.test.two/dubbo.test.two.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Dubbo/dubbo.test.two/dubbo.test.two.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringEasy/SpringEasy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringEasy/SpringEasy.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringEasy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringEasy/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/ThreadLocal/ThreadLocalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/ThreadLocal/ThreadLocalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/CustomObjectMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/CustomObjectMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/SerializeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/SerializeUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/StringFormatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/StringFormatTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/StudentJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/StudentJson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/DateSimTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/DateSimTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/FileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/FileTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/GroupByTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/GroupByTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/HttpUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/HttpUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/StreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/StreamTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -50,17 +54,51 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="DateSimTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/DateSimTest.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="StringFormatTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/StringFormatTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+            <state relative-caret-position="493">
+              <caret line="69" column="52" lean-forward="true" selection-start-line="69" selection-start-column="52" selection-end-line="69" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentJson.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/StudentJson.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SerializeUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/SerializeUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomObjectMapper.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/CustomObjectMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -90,14 +128,21 @@
         <option value="$PROJECT_DIR$/Dubbo/dubbo.test.two/pom.xml" />
         <option value="$PROJECT_DIR$/Dubbo/pom.xml" />
         <option value="$PROJECT_DIR$/Quartz/src/main/java/com/yanghui/quartz/QuartzTest.java" />
-        <option value="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/StreamTest.java" />
         <option value="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/ThreadLocal/ThreadLocalTest.java" />
         <option value="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/GroupByTest.java" />
         <option value="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/FileTest.java" />
-        <option value="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/StudentJson.java" />
         <option value="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/HttpUtil.java" />
-        <option value="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/SerializeUtil.java" />
+        <option value="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/StreamTest.java" />
         <option value="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/DateSimTest.java" />
+        <option value="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/compare/StringCompareTo.java" />
+        <option value="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/DataSetFilter.java" />
+        <option value="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/StudentJson.java" />
+        <option value="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/WSParmas.java" />
+        <option value="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/TicketStatisticServiceImplTest的副本.java" />
+        <option value="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/SerializeUtil.java" />
+        <option value="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/ResultData.java" />
+        <option value="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/StringFormatTest.java" />
+        <option value="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/CustomObjectMapper.java" />
       </list>
     </option>
   </component>
@@ -141,7 +186,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,11 +198,6 @@
             <path>
               <item name="MyCodeRecord" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyCodeRecord" type="462c0819:PsiDirectoryNode" />
-              <item name="Exector" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCodeRecord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCodeRecord" type="462c0819:PsiDirectoryNode" />
               <item name="SpringEasy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -187,7 +228,34 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testone" type="462c0819:PsiDirectoryNode" />
+              <item name="compare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyCodeRecord" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyCodeRecord" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringEasy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jackson" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyCodeRecord" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyCodeRecord" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringEasy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="moudle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyCodeRecord" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyCodeRecord" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringEasy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="MuchThread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MyCodeRecord" type="b2602c69:ProjectViewProjectNode" />
@@ -198,15 +266,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="ThreadLoacalUtil&#9;PSI&#9;JAVA://com.yanghui.test.filter.ThreadLoacalUtil&#10;QuartzTest&#9;PSI&#9;JAVA://com.yanghui.quartz.QuartzTest&#10;KafkaTestTwo&#9;PSI&#9;JAVA://com.yanghui.kafka.service.KafkaTestTwo&#10;EasyTest&#9;PSI&#9;JAVA://com.yanghui.activemq.queue.EasyTest" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../代码大全/Report-server-new" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -215,12 +282,16 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\桌面\MyCodeRecord" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\桌面\MyCodeRecord\Exector\src" />
       <recent name="D:\桌面\MyCodeRecord\ActiveMq\src\main\java\com" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yanghui.jackson" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\桌面\MyCodeRecord\SpringEasy\src\main\java\com\yanghui\jackson" />
+      <recent name="D:\桌面\MyCodeRecord" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -235,23 +306,115 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.StringFormatTest.oo">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="DateSimTest.transTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringFormatTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SpringEasy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yanghui.testone.*" />
+          <option name="PATTERN" value="com.yanghui.jackson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.yanghui.testone" />
-      <option name="MAIN_CLASS_NAME" value="com.yanghui.testone.DateSimTest" />
-      <option name="METHOD_NAME" value="transTime" />
+      <option name="PACKAGE_NAME" value="com.yanghui.jackson" />
+      <option name="MAIN_CLASS_NAME" value="com.yanghui.jackson.StringFormatTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="StringFormatTest.oo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringEasy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yanghui.jackson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.yanghui.jackson" />
+      <option name="MAIN_CLASS_NAME" value="com.yanghui.jackson.StringFormatTest" />
+      <option name="METHOD_NAME" value="oo" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="StringFormatTest.testttssth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringEasy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yanghui.jackson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.yanghui.jackson" />
+      <option name="MAIN_CLASS_NAME" value="com.yanghui.jackson.StringFormatTest" />
+      <option name="METHOD_NAME" value="testttssth" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="StringFormatTest.testttssthL" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringEasy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yanghui.jackson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.yanghui.jackson" />
+      <option name="MAIN_CLASS_NAME" value="com.yanghui.jackson.StringFormatTest" />
+      <option name="METHOD_NAME" value="testttssthL" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="StudentJson.testttssth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringEasy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yanghui.jackson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.yanghui.jackson" />
+      <option name="MAIN_CLASS_NAME" value="com.yanghui.jackson.StudentJson" />
+      <option name="METHOD_NAME" value="testttssth" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -300,9 +463,20 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="JUnit.StudentJson.testttssth" />
+      <item itemvalue="JUnit.StringFormatTest.testttssth" />
+      <item itemvalue="JUnit.StringFormatTest" />
+      <item itemvalue="JUnit.StringFormatTest.testttssthL" />
+      <item itemvalue="JUnit.StringFormatTest.oo" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DateSimTest.transTime" />
+        <item itemvalue="JUnit.StringFormatTest.oo" />
+        <item itemvalue="JUnit.StringFormatTest.testttssthL" />
+        <item itemvalue="JUnit.StringFormatTest.testttssth" />
+        <item itemvalue="JUnit.StringFormatTest" />
+        <item itemvalue="JUnit.StudentJson.testttssth" />
       </list>
     </recent_temporary>
   </component>
@@ -318,44 +492,64 @@
       <updated>1597646656239</updated>
       <workItem from="1597646657629" duration="3429000" />
       <workItem from="1597650560454" duration="259000" />
-      <workItem from="1597650840723" duration="4566000" />
+      <workItem from="1597650840723" duration="12137000" />
+      <workItem from="1598234307307" duration="2822000" />
+      <workItem from="1598319805253" duration="598000" />
+      <workItem from="1598323097832" duration="7370000" />
+      <workItem from="1598352731352" duration="167000" />
+      <workItem from="1598407732149" duration="2979000" />
+      <workItem from="1598411498364" duration="2881000" />
+      <workItem from="1598426430312" duration="1530000" />
+      <workItem from="1598497393415" duration="1342000" />
+      <workItem from="1598510363741" duration="1389000" />
+      <workItem from="1598580384634" duration="1843000" />
+      <workItem from="1598758722612" duration="605000" />
+      <workItem from="1598763669146" duration="2976000" />
     </task>
+    <task id="LOCAL-00001" summary="构建fix">
+      <created>1597722112677</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597722112677</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DateSimTest_transTime - 2020.08.18 at 10h 50m 29s.xml">
-      <configuration name="DateSimTest.transTime" configurationId="JUnit" />
+    <history-entry file="StringFormatTest_oo - 2020.08.31 at 11h 22m 58s.xml">
+      <configuration name="StringFormatTest.oo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DateSimTest_transTime - 2020.08.18 at 10h 50m 43s.xml">
-      <configuration name="DateSimTest.transTime" configurationId="JUnit" />
+    <history-entry file="StringFormatTest_oo - 2020.08.31 at 11h 23m 02s.xml">
+      <configuration name="StringFormatTest.oo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DateSimTest_transTime - 2020.08.18 at 10h 50m 55s.xml">
-      <configuration name="DateSimTest.transTime" configurationId="JUnit" />
+    <history-entry file="StringFormatTest_oo - 2020.08.31 at 11h 23m 11s.xml">
+      <configuration name="StringFormatTest.oo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DateSimTest_transTime - 2020.08.18 at 10h 51m 06s.xml">
-      <configuration name="DateSimTest.transTime" configurationId="JUnit" />
+    <history-entry file="StringFormatTest_oo - 2020.08.31 at 11h 23m 29s.xml">
+      <configuration name="StringFormatTest.oo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DateSimTest_transTime - 2020.08.18 at 10h 51m 32s.xml">
-      <configuration name="DateSimTest.transTime" configurationId="JUnit" />
+    <history-entry file="StringFormatTest_oo - 2020.08.31 at 11h 23m 34s.xml">
+      <configuration name="StringFormatTest.oo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DateSimTest_transTime - 2020.08.18 at 10h 51m 43s.xml">
-      <configuration name="DateSimTest.transTime" configurationId="JUnit" />
+    <history-entry file="StringFormatTest_oo - 2020.08.31 at 11h 23m 58s.xml">
+      <configuration name="StringFormatTest.oo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DateSimTest_transTime - 2020.08.18 at 10h 51m 49s.xml">
-      <configuration name="DateSimTest.transTime" configurationId="JUnit" />
+    <history-entry file="StringFormatTest_oo - 2020.08.31 at 11h 31m 28s.xml">
+      <configuration name="StringFormatTest.oo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DateSimTest_transTime - 2020.08.18 at 10h 52m 18s.xml">
-      <configuration name="DateSimTest.transTime" configurationId="JUnit" />
+    <history-entry file="StringFormatTest_oo - 2020.08.31 at 11h 32m 44s.xml">
+      <configuration name="StringFormatTest.oo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DateSimTest_transTime - 2020.08.18 at 11h 12m 53s.xml">
-      <configuration name="DateSimTest.transTime" configurationId="JUnit" />
+    <history-entry file="StringFormatTest_oo - 2020.08.31 at 11h 32m 52s.xml">
+      <configuration name="StringFormatTest.oo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DateSimTest_transTime - 2020.08.18 at 11h 13m 35s.xml">
-      <configuration name="DateSimTest.transTime" configurationId="JUnit" />
+    <history-entry file="StringFormatTest_oo - 2020.08.31 at 11h 32m 57s.xml">
+      <configuration name="StringFormatTest.oo" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8254000" />
+    <option name="totallyTimeSpent" value="42327000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -370,30 +564,29 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5010661" side_tool="true" weight="0.5321701" />
-      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.26439232" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5026652" side_tool="true" weight="0.29334787" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.06823028" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.08505998" side_tool="true" visible="true" weight="0.1705757" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38822246" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
-      <window_info anchor="bottom" id="Messages" weight="0.3293348" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.4989339" weight="0.3293348" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4989339" weight="0.20392585" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.30643404" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49840087" weight="0.32824427" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49733475" weight="0.29334787" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.52780807" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.91494" visible="true" weight="0.1705757" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -401,6 +594,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -443,82 +637,75 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="构建fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="构建fix" />
+  </component>
   <component name="WindowStateProjectService">
     <state width="490" height="437" key="Git.Branch.Popup" />
     <state width="490" height="437" key="Git.Branch.Popup/1920.1080" />
     <state width="490" height="437" key="Git.Branch.Popup@1920.1080" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/StringFormatTest.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/StringFormatTest.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/SerializeUtil.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="e" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>System.out.println(json);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>json</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&quot;1&quot;.getClass().getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>json.getClass().getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>System.out.println(json.getClass().getName());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/jms/MqConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AopTest/src/main/java/com/yanghui/aop/Log.java" />
-    <entry file="file://$PROJECT_DIR$/ExectorTest/src/main/java/ConcurenExecutorTest.java" />
-    <entry file="file://$PROJECT_DIR$/ExectorTest/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/ActiveMqMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/jms/util/MqConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/jms/util/MessageTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ActiveMq/src/main/java/com/yanghui/activemq/jms/util/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AopTest/src/main/java/AopMainTest.java" />
-    <entry file="file://$PROJECT_DIR$/AopTest/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/DubboTest/dubbo.test.two/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/DubboTest/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/EasyTest/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/DubboTest/dubbo.test.one/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/GetConfigTest/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/KafkaTest/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/MybaticsTest/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/WebcoketTest/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/RedisTest/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/QuartTest/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/SpringDemo/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Kafka/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aop/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exector/src/main/java/ExcutorsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -549,9 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -569,22 +753,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
           <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Dubbo/Dubbo.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Websocket/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
@@ -625,10 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="633">
           <caret line="150" column="41" selection-start-line="150" selection-start-column="41" selection-end-line="150" selection-end-column="41" />
-          <folding>
-            <element signature="e#3447#4361#0" expanded="true" />
-            <element signature="e#4360#4361#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -636,11 +805,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1379#1591#0" expanded="true" />
-            <element signature="e#1590#1591#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -673,24 +837,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/StudentJson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="103" column="7" lean-forward="true" selection-start-line="62" selection-start-column="2" selection-end-line="103" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/SerializeUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="84" column="48" lean-forward="true" selection-start-line="84" selection-start-column="48" selection-end-line="84" selection-end-column="48" />
-          <folding>
-            <element signature="e#1959#1960#0" expanded="true" />
-            <element signature="e#1999#2000#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/HttpUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="62">
@@ -705,10 +851,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/StreamTest.java">
+    <entry file="file://$PROJECT_DIR$/SpringEasy/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="39" selection-start-line="39" selection-end-line="73" />
+        <state relative-caret-position="378">
+          <caret line="101" column="21" lean-forward="true" selection-start-line="96" selection-start-column="3" selection-end-line="101" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/DateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/TryExceptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -719,10 +880,173 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/StaticTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/StreamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/TimerTaskTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/Mib.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/MuchThread/TicketsThreadMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/MuchThread/DeadLockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/moudle/JsonPropertiesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/JSONArray.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/JSONObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/internal/MethodSorter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="1153" column="7" selection-start-line="1153" selection-start-column="7" selection-end-line="1153" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/compare/StringCompareTo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/testone/DateSimTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+        <state relative-caret-position="831">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/DataSetFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/TicketStatisticServiceImplTest的副本.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="38" selection-start-line="38" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/ResultData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/WSParmas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-666">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/StudentJson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/StringFormatTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="69" column="52" lean-forward="true" selection-start-line="69" selection-start-column="52" selection-end-line="69" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/SerializeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/CustomObjectMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -778,7 +1102,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Web|activemq.test</last-edited>
+          <last-edited>Spring|one|test</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
