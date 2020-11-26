@@ -3,19 +3,19 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Aop/AOP.iml" filepath="$PROJECT_DIR$/Aop/AOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ActiveMq/activemq.test.iml" filepath="$PROJECT_DIR$/ActiveMq/activemq.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dubbo/Dubbo.iml" filepath="$PROJECT_DIR$/Dubbo/Dubbo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exector/Exector.iml" filepath="$PROJECT_DIR$/Exector/Exector.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exector/ExectorTest.iml" filepath="$PROJECT_DIR$/Exector/ExectorTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GetConfig/GetConfigTest.iml" filepath="$PROJECT_DIR$/GetConfig/GetConfigTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetConfig/GetConfig.iml" filepath="$PROJECT_DIR$/GetConfig/GetConfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/Kafka/Kafka.iml" filepath="$PROJECT_DIR$/Kafka/Kafka.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/MyCodeRecord.iml" filepath="$PROJECT_DIR$/.idea/MyCodeRecord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MyCodeload1.0.iml" filepath="$PROJECT_DIR$/.idea/MyCodeload1.0.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mybatics/Mybatics.iml" filepath="$PROJECT_DIR$/Mybatics/Mybatics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Quartz/Quartz.iml" filepath="$PROJECT_DIR$/Quartz/Quartz.iml" />
       <module fileurl="file://$PROJECT_DIR$/Redis/Redis.iml" filepath="$PROJECT_DIR$/Redis/Redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringDemo/SpringDemo.iml" filepath="$PROJECT_DIR$/SpringDemo/SpringDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringEasy/SpringEasy.iml" filepath="$PROJECT_DIR$/SpringEasy/SpringEasy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Websocket/WebcoketTest.iml" filepath="$PROJECT_DIR$/Websocket/WebcoketTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ActiveMq/activemq.test.iml" filepath="$PROJECT_DIR$/ActiveMq/activemq.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Websocket/Websocket.iml" filepath="$PROJECT_DIR$/Websocket/Websocket.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dubbo/dubbo.test.one/dubbo.test.one.iml" filepath="$PROJECT_DIR$/Dubbo/dubbo.test.one/dubbo.test.one.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dubbo/dubbo.test.two/dubbo.test.two.iml" filepath="$PROJECT_DIR$/Dubbo/dubbo.test.two/dubbo.test.two.iml" />
     </modules>

@@ -6,25 +6,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="activemq.test" />
         <module name="AOP" />
-        <module name="apo.test" />
-        <module name="Exector" />
-        <module name="ExectorTest" />
-        <module name="GetConfigTest" />
-        <module name="Kafka" />
-        <module name="kafka.test" />
         <module name="Mybatics" />
-        <module name="Quartz" />
-        <module name="Redis" />
-        <module name="redis.test" />
+        <module name="Websocket" />
         <module name="SpringDemo" />
+        <module name="ExectorTest" />
+        <module name="Kafka" />
+        <module name="Redis" />
+        <module name="Quartz" />
+        <module name="ActiveMq" />
+        <module name="kafka.test" />
+        <module name="GetConfig" />
+        <module name="apo.test" />
+        <module name="redis.test" />
+        <module name="Exector" />
         <module name="SpringEasy" />
-        <module name="WebcoketTest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="activemq.test" target="8" />
+      <module name="ActiveMq" target="8" />
       <module name="AOP" target="1.5" />
       <module name="apo.test" target="1.5" />
       <module name="Dubbo" target="1.5" />
@@ -33,17 +33,17 @@
       <module name="dubbo.test.two" target="1.5" />
       <module name="Exector" target="7" />
       <module name="ExectorTest" target="1.5" />
-      <module name="GetConfigTest" target="1.5" />
+      <module name="GetConfig" target="1.5" />
       <module name="Kafka" target="8" />
       <module name="kafka.test" target="1.5" />
       <module name="Mybatics" target="1.5" />
-      <module name="MyCodeRecord" target="1.5" />
+      <module name="MyCodeload1.0" target="1.5" />
       <module name="Quartz" target="6" />
       <module name="Redis" target="1.5" />
       <module name="redis.test" target="1.5" />
       <module name="SpringDemo" target="7" />
-      <module name="SpringEasy" target="8" />
-      <module name="WebcoketTest" target="1.5" />
+      <module name="SpringEasy" target="1.5" />
+      <module name="Websocket" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
