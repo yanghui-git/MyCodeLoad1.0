@@ -1,0 +1,30 @@
+
+H
+java:S3740"/Provide the parametrized type for this generic.(™Ş­Ôşÿÿÿÿ
+H
+java:S3740"/Provide the parametrized type for this generic.(™Ş­Ôşÿÿÿÿ
+I
+java:S1128"6Remove this unused import 'com.alibaba.fastjson.JSON'.(Ö¢å$
+K	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+K	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+K	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+K	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(îì„Áúÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ãışß
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(É‘è°úÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Çî§Äüÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(¾Ö§ıùÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(šÃâùÿÿÿÿ
+Z
+java:S1854"ARemove this useless assignment to local variable "dataSetFilter".(°ÿ¶€ûÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(øŒ¼Æ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(øŒ¼Æ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(œ÷¡«ÿÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ²·Áÿÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(áŸçÕ
+\
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(áŸçÕ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(®Á¯øÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(•¹ˆ†
+K
+java:S1481"2Remove this unused "dataSetFilter" local variable.(°ÿ¶€ûÿÿÿÿ

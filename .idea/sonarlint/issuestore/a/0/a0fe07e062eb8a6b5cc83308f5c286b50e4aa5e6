@@ -1,0 +1,25 @@
+
+W
+java:S3518"CMake sure this expression can't be zero before doing this division.(ŠÒ‡ı
+H
+java:S3740"/Provide the parametrized type for this generic.(€©¾¶ÿÿÿÿÿ
+Y	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò–Â
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ß±
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(é¸ĞÖúÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Òû¥»úÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(Şƒ÷ì
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ß±
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(öå‘®úÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(°áö¦
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(¡¹—Òøÿÿÿÿ
+K	java:S106"9Replace this use of System.out or System.err by a logger.(¡Éë
+I
+java:S1854"5Remove this useless assignment to local variable "a".(ŠÒ‡ı
+L	java:S106"9Replace this use of System.out or System.err by a logger.( £·Ù
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(œØîÛúÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(€ØŸÿÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(œØîÛúÿÿÿÿ
+:
+java:S1481"&Remove this unused "a" local variable.(ŠÒ‡ı
