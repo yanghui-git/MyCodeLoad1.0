@@ -129,12 +129,12 @@ public class HttpUtil {
     public void postOne() {
         CloseableHttpClient httpClient = HttpClients.createDefault();
         HttpResponse response;
-        HttpPost httpPost = new HttpPost("http://10.1.200.204/network/v2/frontapi/mos/agenyamlconfig/createorupdate");
-        StringEntity stringEntity = new StringEntity("{\"agentYamlConfigList\":[{\"filename\":\"111.txt\",\"content\":\"22222222222222\"}]}", "utf-8");
+        HttpPost httpPost = new HttpPost("http://127.0.0.1:8080/validation/two");
+        StringEntity stringEntity = new StringEntity("{\"name\":\"12@11.com\",\"age\":\"2.2.2.255\"}", "utf-8");
         httpPost.setEntity(stringEntity);
         // httpPost.setHeader("apikey","e10adc3949ba59abbe56e057f2gg88dd");
         httpPost.setHeader("Content-Type", "application/json");
-        httpPost.setHeader("Cookie", "language=zh_CN; DISCONF=327fbb27-a6d2-4890-8be8-b8d6183a7391; Hm_lvt_c4578bda90040ec19ded56112b82246f=1585029094; Hm_lpvt_c4578bda90040ec19ded56112b82246f=1585029205; skin=blue; omp_token=80a327ad534a03a4fe299ff798d371df425c6b6f322920b2c0fbf6ae21ad93ba; JSESSIONID=B8E930BAA958A657D3A46621995A1016; token=8da932832df56b7f6fd62ee6e8acf849e68329cc9d87a6e41d0cf1b5600434c3; omp_rand=TuykZSEzDHNxwzGNYmcthuHSyRmZilNRyiJMuyzbfkJRdxTWVhpfbHvgZtNMBkaM");
+       // httpPost.setHeader("Cookie", "language=zh_CN; DISCONF=327fbb27-a6d2-4890-8be8-b8d6183a7391; Hm_lvt_c4578bda90040ec19ded56112b82246f=1585029094; Hm_lpvt_c4578bda90040ec19ded56112b82246f=1585029205; skin=blue; omp_token=80a327ad534a03a4fe299ff798d371df425c6b6f322920b2c0fbf6ae21ad93ba; JSESSIONID=B8E930BAA958A657D3A46621995A1016; token=8da932832df56b7f6fd62ee6e8acf849e68329cc9d87a6e41d0cf1b5600434c3; omp_rand=TuykZSEzDHNxwzGNYmcthuHSyRmZilNRyiJMuyzbfkJRdxTWVhpfbHvgZtNMBkaM");
         try {
             response = httpClient.execute(httpPost);
             System.out.println(EntityUtils.toString(response.getEntity(), "utf-8"));

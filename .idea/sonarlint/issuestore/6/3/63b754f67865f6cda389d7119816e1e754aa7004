@@ -1,0 +1,10 @@
+
+D
+java:S1444")Make this "public static url" field final(ìÖÜ·üÿÿÿÿ
+=
+java:S21890""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+j
+java:S1104"OMake url a static final constant or non-public and provide accessors if needed.(ìÖÜ·üÿÿÿÿ
+M
+java:S19051"2Remove this unnecessary cast to "ConsumerRecords".(œê€¤úÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ªž¿Žüÿÿÿÿ

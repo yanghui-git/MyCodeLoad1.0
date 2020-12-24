@@ -85,7 +85,7 @@ public class SerializeUtil {
     }
 
 
-    public static <T> List<T> transJsonToList(String json, Class<T> cls, String type) {
+    public static <T> List<T> transJsonToList(String json, final Class<T> cls, String type) {
         List<Object> result = new ArrayList<>();
         try {
             result = getObjectMapper().readValue(json, new TypeReference<List<T>>() {

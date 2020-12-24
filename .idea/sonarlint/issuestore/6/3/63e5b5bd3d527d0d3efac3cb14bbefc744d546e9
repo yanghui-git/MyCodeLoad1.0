@@ -1,0 +1,20 @@
+
+c
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(´Â¯¤
+d
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(õîîï
+g
+java:S2095@"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(ìÇğÿ
+c
+java:S2095="MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(´œ ğ
+h
+java:S2095S"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(û€•÷úÿÿÿÿ
+d
+java:S2095T"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(òèïç
+h
+java:S2095A"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(ıÂ–§
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(§Ì¿ùüÿÿÿÿ
+V	java:S125'"<This block of commented-out lines of code should be removed.(Êìˆ–úÿÿÿÿ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(ÅÒ–Ø
+>	java:S108b")Either remove or fill this block of code.(”ı¾

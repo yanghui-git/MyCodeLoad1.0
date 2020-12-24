@@ -51,48 +51,5 @@ public class JacksonTestYh {
     }
 
 
-    @Test
-    public void test() throws Exception {
-        Student student = new Student();
-        student.setAge(20);
-        student.setName("yh");
-        student.setMM(Arrays.asList(new String[]{"1", "2", "3"}));
-        //对象转json
-        String jsonStr = getObjectMapper().writeValueAsString(student);
-        System.out.println(jsonStr);
-        //json转对象
-        Student studentRe = getObjectMapper().readValue(jsonStr, Student.class);
-        System.out.println(studentRe);
-//        //File读取
-//        Student studentRs2 =getObjectMapper().readValue(new File("D:\\桌面","1.txt"),Student.class);
-//        System.out.println(studentRs2);
-//        //FileInputStream读取
-//        FileInputStream fileInputStream=new FileInputStream(new File("D:\\桌面","1.txt"));
-//        Student studentRs3=getObjectMapper().readValue(fileInputStream,Student.class);
-        //       System.out.println(studentRs3);
-    }
-
-    @Test
-    public void test2() throws Exception {
-        //json与数组
-        Student[] students = new Student[]{new Student("yh1", 1, new ArrayList<>()), new Student("yh2", 2, new ArrayList<>())};
-        String str = getObjectMapper().writeValueAsString(students);
-        System.out.println(str);
-
-        //str转数组
-        Student[] test = getObjectMapper().readValue(str, Student[].class);
-        System.out.println(JSON.toJSONString(test));
-
-        //str 转list
-        List<Student> studentList = getObjectMapper().readValue(str, new TypeReference<List<Student>>() {
-        });
-        System.out.println(JSON.toJSONString(studentList));
-
-        List<Object> studentObj = getObjectMapper().readValue(str, new TypeReference<List<Object>>() {
-        });
-        System.out.println(JSON.toJSONString(studentObj));
-
-    }
-
 
 }

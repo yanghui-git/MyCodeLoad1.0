@@ -22,8 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c545ebe7-41d0-43ef-8970-36b0f124ea71" name="Default" comment="构建fix">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ecff98fce2c3d02b61b00ebddcc3998df37fd4ff" beforeDir="false" />
+    <list default="true" id="c545ebe7-41d0-43ef-8970-36b0f124ea71" name="Default" comment="为什么阿里巴巴禁止使用 Executors 创建线程池？">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exector/src/main/java/ConcurenExecutorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exector/src/main/java/ConcurenExecutorTest.java" afterDir="false" />
@@ -62,11 +61,6 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="528" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
-  </component>
   <component name="ProjectId" id="1kpFPwDKMPiM9tjpHrVXb8Apy94" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -104,9 +98,26 @@
       <recent name="D:\桌面\MyCodeRecord" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.StringFormatTest.oo">
+  <component name="RunManager" selected="JUnit.HttpUtil.postOne">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpUtil.postOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringEasy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yanghui.testone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yanghui.testone" />
+      <option name="MAIN_CLASS_NAME" value="com.yanghui.testone.HttpUtil" />
+      <option name="METHOD_NAME" value="postOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -178,23 +189,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentJson.testttssth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SpringEasy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yanghui.jackson.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.yanghui.jackson" />
-      <option name="MAIN_CLASS_NAME" value="com.yanghui.jackson.StudentJson" />
-      <option name="METHOD_NAME" value="testttssth" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -212,19 +206,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.StudentJson.testttssth" />
-      <item itemvalue="JUnit.StringFormatTest.testttssth" />
       <item itemvalue="JUnit.StringFormatTest" />
-      <item itemvalue="JUnit.StringFormatTest.testttssthL" />
       <item itemvalue="JUnit.StringFormatTest.oo" />
+      <item itemvalue="JUnit.StringFormatTest.testttssthL" />
+      <item itemvalue="JUnit.StringFormatTest.testttssth" />
+      <item itemvalue="JUnit.HttpUtil.postOne" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HttpUtil.postOne" />
         <item itemvalue="JUnit.StringFormatTest.oo" />
         <item itemvalue="JUnit.StringFormatTest.testttssthL" />
         <item itemvalue="JUnit.StringFormatTest.testttssth" />
         <item itemvalue="JUnit.StringFormatTest" />
-        <item itemvalue="JUnit.StudentJson.testttssth" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606459527697</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="为什么阿里巴巴禁止使用 Executors 创建线程池？">
+      <created>1608277121077</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608277121077</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -340,7 +341,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="构建fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="构建fix" />
+    <MESSAGE value="为什么阿里巴巴禁止使用 Executors 创建线程池？" />
+    <option name="LAST_COMMIT_MESSAGE" value="为什么阿里巴巴禁止使用 Executors 创建线程池？" />
   </component>
   <component name="WindowStateProjectService">
     <state width="490" height="437" key="Git.Branch.Popup" timestamp="1606389766470" />
@@ -350,10 +352,10 @@
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="221" y="23" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1606459847794" />
-    <state x="320" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606459537078">
+    <state x="320" y="165" key="Vcs.Push.Dialog.v2" timestamp="1608277128371">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.23.1440.804@0.23.1440.804" timestamp="1606459537078" />
+    <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.23.1440.804@0.23.1440.804" timestamp="1608277128371" />
     <state x="418" y="151" width="604" height="548" key="find.popup" timestamp="1606701615094">
       <screen x="0" y="23" width="1440" height="804" />
     </state>

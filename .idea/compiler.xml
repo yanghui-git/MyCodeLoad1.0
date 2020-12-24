@@ -38,7 +38,7 @@
       <module name="Exector" target="1.5" />
       <module name="ExectorTest" target="1.5" />
       <module name="GetConfig" target="1.5" />
-      <module name="Kafka" target="1.5" />
+      <module name="Kafka" target="8" />
       <module name="kafka.test" target="1.5" />
       <module name="Mybatics" target="1.5" />
       <module name="MyCodeload1.0" target="1.5" />
@@ -46,7 +46,7 @@
       <module name="Redis" target="1.5" />
       <module name="redis.test" target="1.5" />
       <module name="SpringDemo" target="1.5" />
-      <module name="SpringEasy" target="1.5" />
+      <module name="SpringEasy" target="7" />
       <module name="Websocket" target="1.5" />
     </bytecodeTargetLevel>
   </component>
