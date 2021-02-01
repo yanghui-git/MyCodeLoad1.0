@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -35,7 +36,7 @@
       <module name="dubbo.test.all" target="1.5" />
       <module name="dubbo.test.one" target="1.5" />
       <module name="dubbo.test.two" target="1.5" />
-      <module name="Exector" target="1.5" />
+      <module name="Exector" target="7" />
       <module name="ExectorTest" target="1.5" />
       <module name="GetConfig" target="1.5" />
       <module name="Kafka" target="8" />

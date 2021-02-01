@@ -1,23 +1,24 @@
 
-S	java:S106,"9Replace this use of System.out or System.err by a logger.(‹£×ÿÿÿÿÿ
-\
-java:S2142Y"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-M	java:S106-"9Replace this use of System.out or System.err by a logger.(ãÊëH
-W	java:S125‡"<This block of commented-out lines of code should be removed.(Åš¬ûøÿÿÿÿ
-S	java:S106B"9Replace this use of System.out or System.err by a logger.(‹£×ÿÿÿÿÿ
-h	java:S100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÛëÖúÿÿÿÿ
-T	java:S106™"9Replace this use of System.out or System.err by a logger.(³²ó¹ûÿÿÿÿ
-M	java:S106C"9Replace this use of System.out or System.err by a logger.(ãÊëH
-˜
-java:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
-O	java:S106"9Replace this use of System.out or System.err by a logger.(æœğ
+m	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÛëÖúÿÿÿÿ8¦«Í•é.
+R	java:S106"9Replace this use of System.out or System.err by a logger.(ãÊëH8¦«Í•é.
 a
-java:S1192*"FDefine a constant instead of duplicating this literal "utf-8" 4 times.(ÙˆîÚúÿÿÿÿ
-g
-java:S20959"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(ıê”Ê
-g
-java:S2095#"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(ıê”Ê
-T	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ÅŒ—ùÿÿÿÿ
-V	java:S125`"<This block of commented-out lines of code should be removed.(êÓÚûüÿÿÿÿ
-h
-java:S2095‚"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(ıê”Ê
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¦«Í•é.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(‹£×ÿÿÿÿÿ8¦«Í•é.
+l
+java:S2095"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(ıê”Ê8¦«Í•é.
+[	java:S125"<This block of commented-out lines of code should be removed.(¨³ÌÇúÿÿÿÿ8¦«Í•é.
+f
+java:S1192"FDefine a constant instead of duplicating this literal "utf-8" 4 times.(ÙˆîÚúÿÿÿÿ8¦«Í•é.
+l
+java:S2095"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(ıê”Ê8¦«Í•é.
+[	java:S125"<This block of commented-out lines of code should be removed.(Åš¬ûøÿÿÿÿ8¦«Í•é.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æœğ8¦«Í•é.
+R	java:S106"9Replace this use of System.out or System.err by a logger.(ãÊëH8¦«Í•é.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÅŒ—ùÿÿÿÿ8¦«Í•é.
+l
+java:S2095"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(ıê”Ê8¦«Í•é.
+[	java:S125"<This block of commented-out lines of code should be removed.(êÓÚûüÿÿÿÿ8¦«Í•é.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(³²ó¹ûÿÿÿÿ8¦«Í•é.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(‹£×ÿÿÿÿÿ8¦«Í•é.
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8¦«Í•é.

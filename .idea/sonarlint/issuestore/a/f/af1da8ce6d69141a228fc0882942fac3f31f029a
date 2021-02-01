@@ -1,0 +1,24 @@
+
+O
+java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ8´ÇÈ•é.
+M
+java:S2168"9Remove this dangerous instance of double-checked locking.(“Ñ–å
+N	java:S125"<This block of commented-out lines of code should be removed.(Á„c
+T	java:S125"<This block of commented-out lines of code should be removed.(€•û¯øÿÿÿÿ
+j
+java:S1128"JRemove this unused import 'com.fasterxml.jackson.core.type.TypeReference'.(ãÐß¤ÿÿÿÿÿ8Ì¯É•é.
+N	java:S125"<This block of commented-out lines of code should be removed.(æˆ¥
+D
+java:S1128")Remove this unused import 'java.io.File'.(†Ð¥Å8´ÇÈ•é.
+K
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ì¯É•é.
+K
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ì¯É•é.
+M
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8´ÇÈ•é.
+H
+java:S1128"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg
+K
+java:S1128"+Remove this unused import 'org.junit.Test'.(ùžøèøÿÿÿÿ8Ì¯É•é.
+P
+java:S1128"6Remove this unused import 'com.alibaba.fastjson.JSON'.(Ö¢å$8Ì¯É•é.

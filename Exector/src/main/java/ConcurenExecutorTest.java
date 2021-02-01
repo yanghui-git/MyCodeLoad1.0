@@ -15,6 +15,7 @@ public class ConcurenExecutorTest {
     @Test
     public void one() {
         Set<Callable<String>> futureList = new HashSet<>();
+
         for (int i = 0; i < 10; i++) {
             futureList.add(
                     new Callable<String>() {

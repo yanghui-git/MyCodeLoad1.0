@@ -1,0 +1,33 @@
+
+@
+java:S1444",Make this "public static lock_A" field final(ï•Ûñ
+E
+java:S1444",Make this "public static lock_B" field final(Ï°ŠŞúÿÿÿÿ
+;
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÏäÙÿÿÿÿÿ
+f
+java:S1104"RMake lock_A a static final constant or non-public and provide accessors if needed.(ï•Ûñ
+k
+java:S1104"RMake lock_B a static final constant or non-public and provide accessors if needed.(Ï°ŠŞúÿÿÿÿ
+e
+java:S3008"QRename this field "lock_A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï•Ûñ
+j
+java:S3008"QRename this field "lock_B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï°ŠŞúÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ãË”™
+Z
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(Ù¡Ó‚
+V
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(ÜÆí
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿÿš‡üÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Àııñûÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ¥â©üÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(œ‰¢Ş
+Z
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(Ğ¿æÎ
+V
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(ÜÆí
+L	java:S106"9Replace this use of System.out or System.err by a logger.(îâ¬²
+L	java:S106"9Replace this use of System.out or System.err by a logger.(˜¼áÃ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ä•Óîüÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(şİ•

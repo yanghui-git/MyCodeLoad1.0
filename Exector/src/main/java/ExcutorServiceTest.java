@@ -178,10 +178,10 @@ public class ExcutorServiceTest {
 
     public static void main(String[] args) {
         //这个方法有个问题，就是没有办法获知task的执行结果。如果我们想获得task的执行结果，我们可以传入一个Callable的实例（下面会介绍
-        test();
+        //test();
         //testTwo();
           //testThree();
-         //testFour();
+         testFour();
 //        try {
 //            testFive();
 //        } catch (Exception e) {
