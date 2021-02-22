@@ -359,9 +359,9 @@ q
 ASpringEasy/src/main/java/com/yanghui/MuchThread/DeadLockTest.java,2/8/284b6daf56737650345a5e590414a29042b89824
 i
 9SpringEasy/src/main/java/com/yanghui/jackson/Student.java,4/0/40ad7eaa90271497e18845dfd3c3ebed8328295b
-w
-G.idea/sonarlint/issuestore/6/d/6d9850fdc1d9d366f11913030a6c025e31146388,f/1/f1b27249f67d8121468f3ca1b5c4a86177b0b993
 o
 ?SpringEasy/src/main/java/com/yanghui/jackson/JacksonTestYh.java,a/f/af1da8ce6d69141a228fc0882942fac3f31f029a
 q
 ASpringEasy/src/main/java/com/yanghui/compare/StringCompareTo.java,6/8/68468b9caab033f4784faed3267656569f909527
+W
+'Exector/src/main/java/TestExecutor.java,2/c/2cda563f7b3518c9985e49899b19a4afa1a97745

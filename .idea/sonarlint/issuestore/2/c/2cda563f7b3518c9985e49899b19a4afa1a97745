@@ -1,0 +1,14 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼‡·£8˜¹¾ãõ.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8˜¹¾ãõ.
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(§³€®ÿÿÿÿÿ8˜¹¾ãõ.
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.( „Ûúÿÿÿÿ8˜¹¾ãõ.
+c
+java:S2142C"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8˜¹¾ãõ.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(¦¶á§8˜¹¾ãõ.
+0
+java:S1220""Move this file to a named package.
+]	java:S125F"<This block of commented-out lines of code should be removed.(Ãéœêşÿÿÿÿ8˜¹¾ãõ.
+L
+java:S3740"/Provide the parametrized type for this generic.(Ùµş8˜¹¾ãõ.

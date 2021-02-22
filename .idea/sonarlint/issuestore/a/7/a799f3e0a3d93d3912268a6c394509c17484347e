@@ -1,10 +1,10 @@
 
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(ûÛÏçùÿÿÿÿ
-_
-java:S1128"DRemove this unused import 'java.util.concurrent.ThreadPoolExecutor'.(¦ÿöÊ8¸œª¦ç.
-R
-java:S1135"2Complete the task associated to this TODO comment.(¢¦Œùúÿÿÿÿ8Èô ¦ç.
-O	java:S125"<This block of commented-out lines of code should be removed.(Çƒ™­
-0
-java:S1220""Move this file to a named package.
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+7
+java:S1220""Move this file to a named package.8ŠÅãõ.
+a
+java:S1128	"DRemove this unused import 'java.util.concurrent.ThreadPoolExecutor'.(¦ÿöÊ8ŠÅãõ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ûÛÏçùÿÿÿÿ8ŠÅãõ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ŠÅãõ.
+X	java:S125""<This block of commented-out lines of code should be removed.(Çƒ™­8ŠÅãõ.
+T
+java:S1135*"2Complete the task associated to this TODO comment.(¢¦Œùúÿÿÿÿ8ŠÅãõ.

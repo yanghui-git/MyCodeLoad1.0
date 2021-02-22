@@ -1,12 +1,12 @@
 
+V	java:S125"<This block of commented-out lines of code should be removed.(Ùù÷Üüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³²ó¹ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ö¹ôúÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(÷›Õ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±²ìÍ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ê™¡È
+M	java:S106"9Replace this use of System.out or System.err by a logger.(²µõP
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùå×Š
 X
 java:S1128"BRemove this unused import 'org.omg.Messaging.SYNC_WITH_TRANSPORT'.(ßÎÂÉ
-c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùå×Š
-M	java:S106"9Replace this use of System.out or System.err by a logger.(²µõP
-N	java:S106"9Replace this use of System.out or System.err by a logger.(±²ìÍ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ö¹ôúÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Ê™¡È
-M	java:S106"9Replace this use of System.out or System.err by a logger.(÷›Õ
-V	java:S125"<This block of commented-out lines of code should be removed.(Ùù÷Üüÿÿÿÿ
 V	java:S125"<This block of commented-out lines of code should be removed.(²îªÿıÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(³²ó¹ûÿÿÿÿ

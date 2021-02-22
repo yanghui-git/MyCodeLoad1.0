@@ -23,26 +23,117 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c545ebe7-41d0-43ef-8970-36b0f124ea71" name="Default" comment="fix 构建">
-      <change afterPath="$PROJECT_DIR$/Exector/src/main/java/ExecutorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_luben_zstd_jni_1_4_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_39.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_39.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_16_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_kafka_spring_kafka_2_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2cda563f7b3518c9985e49899b19a4afa1a97745" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kafka/src/main/java/com/yanghui/kafka/KafkaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kafka/src/main/java/com/yanghui/kafka/service/KafkaConsumerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kafka/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MyCodeload1.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyCodeload1.0.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/2945f9cd1dec27e8467e68bd57592ae9a6888c0e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/2945f9cd1dec27e8467e68bd57592ae9a6888c0e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/4221944ed6046b33aa33489c3faa0589c9ce5156" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/4221944ed6046b33aa33489c3faa0589c9ce5156" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_2_5_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_lz4_lz4_java_1_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_lz4_lz4_java_1_7_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_7_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_7_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/254e50e0a8709fd00000a240b3ebf7fc863c5414" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/254e50e0a8709fd00000a240b3ebf7fc863c5414" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/42cedffbaa4eae19aa81a16e1f36e9c4df2ccfc0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/42cedffbaa4eae19aa81a16e1f36e9c4df2ccfc0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/63b754f67865f6cda389d7119816e1e754aa7004" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/63b754f67865f6cda389d7119816e1e754aa7004" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/910074294724bcad71cbc9be9fa2daece586bf45" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/910074294724bcad71cbc9be9fa2daece586bf45" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a0d54c9c84d959d528a1dd3a02348c5f37b12110" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a0d54c9c84d959d528a1dd3a02348c5f37b12110" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/68468b9caab033f4784faed3267656569f909527" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/68468b9caab033f4784faed3267656569f909527" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d9850fdc1d9d366f11913030a6c025e31146388" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d9850fdc1d9d366f11913030a6c025e31146388" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7d76bfa61458945cfffc9e0e69566313cefe2ba7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7d76bfa61458945cfffc9e0e69566313cefe2ba7" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a799f3e0a3d93d3912268a6c394509c17484347e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a799f3e0a3d93d3912268a6c394509c17484347e" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c4057b3659205dbe5b4dd4c26fbbec91da3fb624" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c4057b3659205dbe5b4dd4c26fbbec91da3fb624" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c91a8bad790a74c5060c4dad2512a33117c93769" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c91a8bad790a74c5060c4dad2512a33117c93769" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc13e9972331ce01052eb29456c4701d7b10888f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc13e9972331ce01052eb29456c4701d7b10888f" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ActiveMq/Activemq.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ActiveMq/Activemq.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aop/AOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Aop/AOP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dubbo/Dubbo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Dubbo/Dubbo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dubbo/dubbo.test.two/dubbo.test.two.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Dubbo/dubbo.test.two/dubbo.test.two.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exector/Exector.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exector/Exector.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exector/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exector/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exector/src/main/java/ConcurenExecutorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exector/src/main/java/ConcurenExecutorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exector/src/main/java/ExcutorServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exector/src/main/java/ExcutorServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exector/src/main/java/ExcutorsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exector/src/main/java/ExcutorsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exector/target/classes/ConcurenExecutorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Exector/target/classes/ConcurenExecutorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exector/target/classes/ExcutorServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Exector/target/classes/ExcutorServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GetConfig/GetConfig.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GetConfig/GetConfig.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka/Kafka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/Kafka.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka/src/main/java/com/yanghui/kafka/service/KafkaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/src/main/java/com/yanghui/kafka/test/KafkaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka/src/main/java/com/yanghui/kafka/service/KafkaTestTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/src/main/java/com/yanghui/kafka/test/KafkaTestTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka/target/Kafka-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka/target/classes/com/yanghui/kafka/service/KafkaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka/target/classes/com/yanghui/kafka/service/KafkaTestTwo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka/target/classes/com/yanghui/kafka/service/KafkaTestTwo$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka/target/classes/com/yanghui/kafka/service/KafkaTestTwo$KafkaConsumerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka/target/classes/com/yanghui/kafka/service/KafkaTestTwo$KafkaProduceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka/target/classes/com/yanghui/kafka/service/KafkaTestTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatics/Mybatics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatics/Mybatics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quartz/Quartz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Quartz/Quartz.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Redis/Redis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Redis/Redis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringDemo/SpringDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringDemo/SpringDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,40 +186,81 @@
     <property name="SearchEverywhereHistoryKey" value="ThreadLoacalUtil&#9;PSI&#9;JAVA://com.yanghui.test.filter.ThreadLoacalUtil&#10;QuartzTest&#9;PSI&#9;JAVA://com.yanghui.quartz.QuartzTest&#10;KafkaTestTwo&#9;PSI&#9;JAVA://com.yanghui.kafka.service.KafkaTestTwo&#10;EasyTest&#9;PSI&#9;JAVA://com.yanghui.activemq.queue.EasyTest" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exector/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\桌面\MyCodeRecord\Exector\src" />
-      <recent name="D:\桌面\MyCodeRecord\ActiveMq\src\main\java\com" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Exector/src/main/java" />
+      <recent name="D:\桌面\MyCodeRecord\SpringEasy\src\main\java\com\yanghui\jackson" />
+      <recent name="D:\桌面\MyCodeRecord" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.yanghui.jackson" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\桌面\MyCodeRecord\SpringEasy\src\main\java\com\yanghui\jackson" />
-      <recent name="D:\桌面\MyCodeRecord" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\桌面\MyCodeRecord\Exector\src" />
+      <recent name="D:\桌面\MyCodeRecord\ActiveMq\src\main\java\com" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestExecutor">
-    <configuration name="ExecutorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExecutorTest" />
-      <module name="Exector" />
+  <component name="RunManager" selected="JUnit.KafkaTest.test">
+    <configuration name="KafkaMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yanghui.kafka.KafkaMain" />
+      <module name="Kafka" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yanghui.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestExecutor" />
-      <module name="Exector" />
+    <configuration name="KafkaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yanghui.kafka.service.KafkaMain" />
+      <module name="Kafka" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yanghui.kafka.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaTestTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yanghui.kafka.service.KafkaTestTwo" />
+      <module name="Kafka" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yanghui.kafka.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yanghui.test.MainTest" />
+      <module name="SpringDemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yanghui.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -139,51 +271,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HttpUtil.postOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SpringEasy" />
+    <configuration name="KafkaTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kafka" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yanghui.testone.*" />
+          <option name="PATTERN" value="com.yanghui.kafka.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.yanghui.testone" />
-      <option name="MAIN_CLASS_NAME" value="com.yanghui.testone.HttpUtil" />
-      <option name="METHOD_NAME" value="postOne" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringFormatTest.testttssth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SpringEasy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yanghui.jackson.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.yanghui.jackson" />
-      <option name="MAIN_CLASS_NAME" value="com.yanghui.jackson.StringFormatTest" />
-      <option name="METHOD_NAME" value="testttssth" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringFormatTest.testttssthL" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SpringEasy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yanghui.jackson.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.yanghui.jackson" />
-      <option name="MAIN_CLASS_NAME" value="com.yanghui.jackson.StringFormatTest" />
-      <option name="METHOD_NAME" value="testttssthL" />
+      <option name="PACKAGE_NAME" value="com.yanghui.kafka.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yanghui.kafka.test.KafkaTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -207,19 +305,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.HttpUtil.postOne" />
-      <item itemvalue="JUnit.StringFormatTest.testttssthL" />
-      <item itemvalue="JUnit.StringFormatTest.testttssth" />
-      <item itemvalue="Application.ExecutorTest" />
-      <item itemvalue="Application.TestExecutor" />
+      <item itemvalue="Application.KafkaTestTwo" />
+      <item itemvalue="Application.MainTest" />
+      <item itemvalue="Application.KafkaMain" />
+      <item itemvalue="Application.KafkaMain (1)" />
+      <item itemvalue="JUnit.KafkaTest.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestExecutor" />
-        <item itemvalue="Application.ExecutorTest" />
-        <item itemvalue="JUnit.HttpUtil.postOne" />
-        <item itemvalue="JUnit.StringFormatTest.testttssth" />
-        <item itemvalue="JUnit.StringFormatTest.testttssthL" />
+        <item itemvalue="JUnit.KafkaTest.test" />
+        <item itemvalue="Application.KafkaMain (1)" />
+        <item itemvalue="Application.KafkaMain" />
+        <item itemvalue="Application.KafkaTestTwo" />
+        <item itemvalue="Application.MainTest" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608779046785</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="日常demo">
+      <created>1612163664135</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612163664135</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -319,40 +424,65 @@
     <MESSAGE value="构建fix" />
     <MESSAGE value="为什么阿里巴巴禁止使用 Executors 创建线程池？" />
     <MESSAGE value="fix 构建" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix 构建" />
+    <MESSAGE value="日常demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="日常demo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="446" y="256" key="#Notifications" timestamp="1608780540017">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="446" y="256" key="#Notifications/0.23.1440.804@0.23.1440.804" timestamp="1608780540017" />
+    <state x="208" y="23" key="#Project_Structure" timestamp="1613961240484">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="208" y="23" key="#Project_Structure/0.23.1440.804@0.23.1440.804" timestamp="1613961240484" />
+    <state x="100" y="123" width="1240" height="604" key="DiffContextDialog" timestamp="1612164642496">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="100" y="123" width="1240" height="604" key="DiffContextDialog/0.23.1440.804@0.23.1440.804" timestamp="1612164642496" />
     <state width="490" height="437" key="Git.Branch.Popup" timestamp="1606389766470" />
     <state width="490" height="437" key="Git.Branch.Popup/1920.1080" timestamp="1606389766470" />
     <state width="490" height="437" key="Git.Branch.Popup@1920.1080" timestamp="1606389766470" />
-    <state width="1398" height="185" key="GridCell.Tab.0.bottom" timestamp="1612163258144">
+    <state width="1398" height="326" key="GridCell.Tab.0.bottom" timestamp="1613973071640">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1398" height="185" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1612163258144" />
-    <state width="1398" height="185" key="GridCell.Tab.0.center" timestamp="1612163258144">
+    <state width="1398" height="326" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1613973071640" />
+    <state width="1398" height="326" key="GridCell.Tab.0.center" timestamp="1613973071639">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1398" height="185" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1612163258144" />
-    <state width="1398" height="185" key="GridCell.Tab.0.left" timestamp="1612163258143">
+    <state width="1398" height="326" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1613973071639" />
+    <state width="1398" height="326" key="GridCell.Tab.0.left" timestamp="1613973071639">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1398" height="185" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1612163258143" />
-    <state width="1398" height="185" key="GridCell.Tab.0.right" timestamp="1612163258144">
+    <state width="1398" height="326" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1613973071639" />
+    <state width="1398" height="326" key="GridCell.Tab.0.right" timestamp="1613973071640">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1398" height="185" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1612163258144" />
+    <state width="1398" height="326" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1613973071640" />
+    <state width="1398" height="248" key="GridCell.Tab.1.bottom" timestamp="1613964158648">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1613964158648" />
+    <state width="1398" height="248" key="GridCell.Tab.1.center" timestamp="1613964158647">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1613964158647" />
+    <state width="1398" height="248" key="GridCell.Tab.1.left" timestamp="1613964158647">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1613964158647" />
+    <state width="1398" height="248" key="GridCell.Tab.1.right" timestamp="1613964158647">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1613964158647" />
     <state x="221" y="23" key="SettingsEditor" timestamp="1606459847794">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="221" y="23" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1606459847794" />
-    <state x="320" y="165" key="Vcs.Push.Dialog.v2" timestamp="1608779054648">
+    <state x="320" y="165" key="Vcs.Push.Dialog.v2" timestamp="1612163674874">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.23.1440.804@0.23.1440.804" timestamp="1608779054648" />
+    <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.23.1440.804@0.23.1440.804" timestamp="1612163674874" />
     <state x="418" y="151" width="604" height="548" key="find.popup" timestamp="1611818262722">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
@@ -375,6 +505,16 @@
           <url>file://$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/jackson/SerializeUtil.java</url>
           <line>48</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Kafka/src/main/java/com/yanghui/kafka/test/KafkaTest.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Kafka/src/main/java/com/yanghui/kafka/test/KafkaTest.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
