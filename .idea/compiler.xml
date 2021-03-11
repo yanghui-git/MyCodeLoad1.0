@@ -20,6 +20,7 @@
         <module name="Activemq" />
         <module name="kafka.test" />
         <module name="GetConfig" />
+        <module name="MybaticsRead" />
         <module name="apo.test" />
         <module name="redis.test" />
         <module name="Exector" />
@@ -39,9 +40,11 @@
       <module name="Exector" target="7" />
       <module name="ExectorTest" target="1.5" />
       <module name="GetConfig" target="1.5" />
-      <module name="Kafka" target="7" />
+      <module name="Kafka" target="1.5" />
       <module name="kafka.test" target="1.5" />
       <module name="Mybatics" target="1.5" />
+      <module name="MybaticsRead" target="1.5" />
+      <module name="Mybatis" target="1.5" />
       <module name="MyCodeload1.0" target="1.5" />
       <module name="Quartz" target="1.5" />
       <module name="Redis" target="1.5" />

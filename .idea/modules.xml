@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Kafka/Kafka.iml" filepath="$PROJECT_DIR$/Kafka/Kafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MyCodeload1.0.iml" filepath="$PROJECT_DIR$/.idea/MyCodeload1.0.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mybatics/Mybatics.iml" filepath="$PROJECT_DIR$/Mybatics/Mybatics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MybaticsRead/MybaticsRead.iml" filepath="$PROJECT_DIR$/MybaticsRead/MybaticsRead.iml" />
       <module fileurl="file://$PROJECT_DIR$/Quartz/Quartz.iml" filepath="$PROJECT_DIR$/Quartz/Quartz.iml" />
       <module fileurl="file://$PROJECT_DIR$/Redis/Redis.iml" filepath="$PROJECT_DIR$/Redis/Redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringDemo/SpringDemo.iml" filepath="$PROJECT_DIR$/SpringDemo/SpringDemo.iml" />
