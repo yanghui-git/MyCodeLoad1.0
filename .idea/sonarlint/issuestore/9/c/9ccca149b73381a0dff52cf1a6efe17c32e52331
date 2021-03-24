@@ -1,0 +1,27 @@
+
+V
+java:S3518"CMake sure this expression can't be zero before doing this division.(û"
+^
+java:S2095"EUse try-with-resources or close this "Archive" in a "finally" clause.(ıåæ½øÿÿÿÿ
+J
+java:S2589"7Remove this expression which always evaluates to "true"(öïúL
+a	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡—²Ş
+K
+java:S1854"7Remove this useless assignment to local variable "fos".(½è´
+f
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¡—²Ş
+L	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ·ÍÔ
+:
+java:S1075"&Remove this hard-coded path-delimiter.(Òµ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(é£Íåøÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(ØùØË
+H
+java:S1854"5Remove this useless assignment to local variable "a".(û"
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ôœáˆ
+K	java:S106"9Replace this use of System.out or System.err by a logger.(µÉZ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(¯Ğ‚Şÿÿÿÿÿ
+Z
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¯Ğ‚Şÿÿÿÿÿ
+S	java:S899";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+?
+java:S1481"&Remove this unused "a" local variable.(–ÎåÌûÿÿÿÿ

@@ -20,7 +20,6 @@
         <module name="Activemq" />
         <module name="kafka.test" />
         <module name="GetConfig" />
-        <module name="MybaticsRead" />
         <module name="apo.test" />
         <module name="redis.test" />
         <module name="Exector" />
@@ -29,7 +28,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ActiveMq" target="8" />
-      <module name="Activemq" target="7" />
+      <module name="Activemq" target="8" />
       <module name="activemq.test" target="8" />
       <module name="AOP" target="1.5" />
       <module name="apo.test" target="1.5" />
@@ -40,7 +39,7 @@
       <module name="Exector" target="7" />
       <module name="ExectorTest" target="1.5" />
       <module name="GetConfig" target="1.5" />
-      <module name="Kafka" target="1.5" />
+      <module name="Kafka" target="8" />
       <module name="kafka.test" target="1.5" />
       <module name="Mybatics" target="1.5" />
       <module name="MybaticsRead" target="1.5" />

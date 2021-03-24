@@ -29,21 +29,87 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c545ebe7-41d0-43ef-8970-36b0f124ea71" name="Default" comment="LOmbok @Builder 注解 神奇">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_44.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_27.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MyCodeload1.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyCodeload1.0.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_2_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_44.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_4_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1bedbf8682f206f4aa32efa6e15bafd8bc86de8e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1bedbf8682f206f4aa32efa6e15bafd8bc86de8e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/266e6e2c90fe4d87d6d1bfde592877fd2d9877c4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/266e6e2c90fe4d87d6d1bfde592877fd2d9877c4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3d486079200fcac4736836087d49399b79e7a680" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3d486079200fcac4736836087d49399b79e7a680" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/459932a82b4550d8baef88f59d59014733c41528" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/459932a82b4550d8baef88f59d59014733c41528" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/63e5b5bd3d527d0d3efac3cb14bbefc744d546e9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/63e5b5bd3d527d0d3efac3cb14bbefc744d546e9" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ActiveMq/Activemq.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ActiveMq/Activemq.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ActiveMq/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ActiveMq/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aop/AOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Aop/AOP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dubbo/Dubbo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Dubbo/Dubbo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dubbo/dubbo.test.one/dubbo.test.one.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Dubbo/dubbo.test.one/dubbo.test.one.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dubbo/dubbo.test.two/dubbo.test.two.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Dubbo/dubbo.test.two/dubbo.test.two.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exector/Exector.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exector/Exector.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GetConfig/GetConfig.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GetConfig/GetConfig.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka/Kafka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/Kafka.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatics/Mybatics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatics/Mybatics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatics/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatics/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatics/target/classes/com/yanghui/mybatics/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatics/target/classes/com/yanghui/mybatics/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatics/target/classes/com/yanghui/tes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MybaticsRead/MybaticsRead.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MybaticsRead/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MybaticsRead/src/main/java/com/yh/mybatis/read/OldJDBCTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MybaticsRead/src/main/resources/test.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MybaticsRead/target/classes/com/yh/mybatis/read/OldJDBCTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MybaticsRead/target/classes/test.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quartz/Quartz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Quartz/Quartz.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Redis/Redis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Redis/Redis.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringDemo/SpringDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringDemo/SpringDemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringDemo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDemo/target/classes/com/yanghui/test/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDemo/target/classes/com/yanghui/test/controller/ThreadLocalControllerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDemo/target/classes/com/yanghui/test/demo/StaticTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDemo/target/classes/com/yanghui/test/demo/TestOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDemo/target/classes/com/yanghui/test/filter/AuthFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDemo/target/classes/com/yanghui/test/filter/OpenrationUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDemo/target/classes/com/yanghui/test/filter/ThreadLoacalUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/lombock/StudentLombok.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringEasy/src/main/java/com/yanghui/lombock/StudentLombok.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringEasy/SpringEasy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringEasy/SpringEasy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringEasy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringEasy/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Websocket/Websocket.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Websocket/Websocket.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +136,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/Desktop/MavenRes" />
         <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -104,7 +172,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -120,14 +188,14 @@
       <recent name="D:\桌面\MyCodeRecord\ActiveMq\src\main\java\com" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ThreadTestTwo.testThree">
-    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yanghui.test.MainTest" />
-      <module name="SpringDemo" />
+  <component name="RunManager" selected="Application.MainTest (1)">
+    <configuration name="MainTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yanghui.mybatics.MainTest" />
+      <module name="Mybatics" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yanghui.test.*" />
+          <option name="PATTERN" value="com.yanghui.mybatics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,13 +203,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OldJDBCTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yh.mybatis.read.OldJDBCTest" />
-      <module name="MybaticsRead" />
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yanghui.test.MainTest" />
+      <module name="SpringDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yh.mybatis.read.*" />
+          <option name="PATTERN" value="com.yanghui.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,19 +288,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.OldJDBCTest" />
       <item itemvalue="Application.StudentLombok" />
       <item itemvalue="Application.MainTest" />
+      <item itemvalue="Application.MainTest (1)" />
       <item itemvalue="JUnit.StudentLombok.testBuilder" />
       <item itemvalue="JUnit.ThreadTestTwo.testThree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainTest (1)" />
         <item itemvalue="JUnit.ThreadTestTwo.testThree" />
         <item itemvalue="Application.MainTest" />
         <item itemvalue="Application.StudentLombok" />
         <item itemvalue="JUnit.StudentLombok.testBuilder" />
-        <item itemvalue="Application.OldJDBCTest" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +387,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615446682299</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="构建fix">
+      <created>1616550839345</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1616550839345</updated>
+    </task>
+    <task id="LOCAL-00010" summary="构建fix">
+      <created>1616550845102</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1616550845102</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -362,13 +444,13 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="构建fix" />
     <MESSAGE value="为什么阿里巴巴禁止使用 Executors 创建线程池？" />
     <MESSAGE value="fix 构建" />
     <MESSAGE value="日常demo" />
     <MESSAGE value="Kafka demo" />
     <MESSAGE value="LOmbok @Builder 注解 神奇" />
-    <option name="LAST_COMMIT_MESSAGE" value="LOmbok @Builder 注解 神奇" />
+    <MESSAGE value="构建fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="构建fix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="446" y="256" key="#Notifications" timestamp="1608780540017">
@@ -387,22 +469,22 @@
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="100" y="123" width="1240" height="604" key="DiffContextDialog/0.23.1440.804@0.23.1440.804" timestamp="1614562954899" />
-    <state width="1398" height="232" key="GridCell.Tab.0.bottom" timestamp="1615795451505">
+    <state width="1398" height="154" key="GridCell.Tab.0.bottom" timestamp="1616551621946">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1398" height="232" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1615795451505" />
-    <state width="1398" height="232" key="GridCell.Tab.0.center" timestamp="1615795451503">
+    <state width="1398" height="154" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1616551621946" />
+    <state width="1398" height="154" key="GridCell.Tab.0.center" timestamp="1616551621945">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1398" height="232" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1615795451503" />
-    <state width="1398" height="232" key="GridCell.Tab.0.left" timestamp="1615795451498">
+    <state width="1398" height="154" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1616551621945" />
+    <state width="1398" height="154" key="GridCell.Tab.0.left" timestamp="1616551621944">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1398" height="232" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1615795451498" />
-    <state width="1398" height="232" key="GridCell.Tab.0.right" timestamp="1615795451503">
+    <state width="1398" height="154" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1616551621944" />
+    <state width="1398" height="154" key="GridCell.Tab.0.right" timestamp="1616551621946">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1398" height="232" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1615795451503" />
+    <state width="1398" height="154" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1616551621946" />
     <state width="1398" height="286" key="GridCell.Tab.1.bottom" timestamp="1614931295742">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
@@ -419,18 +501,22 @@
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state width="1398" height="286" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1614931295742" />
-    <state x="320" y="165" key="Vcs.Push.Dialog.v2" timestamp="1615446688614">
+    <state x="221" y="64" key="SettingsEditor" timestamp="1616552100431">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.23.1440.804@0.23.1440.804" timestamp="1615446688614" />
+    <state x="221" y="64" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1616552100431" />
+    <state x="320" y="165" key="Vcs.Push.Dialog.v2" timestamp="1616550853261">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.23.1440.804@0.23.1440.804" timestamp="1616550853261" />
     <state width="720" height="402" key="XDebugger.FullValuePopup" timestamp="1614566554690">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state width="720" height="402" key="XDebugger.FullValuePopup/0.23.1440.804@0.23.1440.804" timestamp="1614566554690" />
-    <state x="418" y="151" width="663" height="548" key="find.popup" timestamp="1616486939263">
+    <state x="418" y="151" width="663" height="548" key="find.popup" timestamp="1616551845462">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state x="418" y="151" width="663" height="548" key="find.popup/0.23.1440.804@0.23.1440.804" timestamp="1616486939263" />
+    <state x="418" y="151" width="663" height="548" key="find.popup/0.23.1440.804@0.23.1440.804" timestamp="1616551845462" />
     <state x="88" y="88" key="new project wizard" timestamp="1614563702675">
       <screen x="0" y="23" width="1440" height="804" />
     </state>

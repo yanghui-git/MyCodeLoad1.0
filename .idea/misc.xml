@@ -33,6 +33,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/MybaticsRead/pom.xml" />
         <option value="$PROJECT_DIR$/Mybatis/pom.xml" />
       </set>
     </option>

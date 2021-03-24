@@ -1,38 +1,40 @@
 
-J
-java:S3740"/Provide the parametrized type for this generic.(—êá“8ÅÂ¼½ü.
-a
-java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÅÂ¼½ü.
-Z
-java:S1118":Add a private constructor to hide the implicit public one.(Ó£¢‚úÿÿÿÿ8ÅÂ¼½ü.
-X	java:S106"9Replace this use of System.out or System.err by a logger.(Ûº‰şÿÿÿÿ8ÅÂ¼½ü.
-V	java:S125"<This block of commented-out lines of code should be removed.(ÎëÓ8ÅÂ¼½ü.
-f
-java:S2095"KUse try-with-resources or close this "KafkaProducer" in a "finally" clause.(ëÚ²8ÅÂ¼½ü.
-O
-java:S3740"/Provide the parametrized type for this generic.(ÆÉÜíÿÿÿÿÿ8ÅÂ¼½ü.
-J
-java:S3740"/Provide the parametrized type for this generic.(ó ÌÄ8ÅÂ¼½ü.
-U
-java:S1118":Add a private constructor to hide the implicit public one.(·’Ë„8ÅÂ¼½ü.
-R
-java:S1905"2Remove this unnecessary cast to "ConsumerRecords".(ËöÎ‹şÿÿÿÿ8ÅÂ¼½ü.
-J
-java:S3740"/Provide the parametrized type for this generic.(ëÚ²8ÅÂ¼½ü.
-X	java:S106"9Replace this use of System.out or System.err by a logger.(¾Èºıÿÿÿÿ8ÅÂ¼½ü.
-J
-java:S3740"/Provide the parametrized type for this generic.(—êá“8ÅÂ¼½ü.
-_	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ïù˜8ÅÂ¼½ü.
-g	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïù˜8ÅÂ¼½ü.
-f
-java:S2095"KUse try-with-resources or close this "KafkaConsumer" in a "finally" clause.(ó ÌÄ8ÅÂ¼½ü.
-S	java:S106"9Replace this use of System.out or System.err by a logger.(—ãÍ¦8ÅÂ¼½ü.
-J
-java:S3740"/Provide the parametrized type for this generic.(ëÚ²8ÅÂ¼½ü.
-h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êĞÏÖ8ÅÂ¼½ü.
-J
-java:S3740"/Provide the parametrized type for this generic.(ó ÌÄ8ÅÂ¼½ü.
+h
+java:S2095@"KUse try-with-resources or close this "KafkaProducer" in a "finally" clause.(ëÚ²8ôöÀ†/
+h
+java:S2095W"KUse try-with-resources or close this "KafkaConsumer" in a "finally" clause.(ó ÌÄ8ôöÀ†/
+Q
+java:S3740&"/Provide the parametrized type for this generic.(ÆÉÜíÿÿÿÿÿ8ôöÀ†/
 L
-java:S1874",Remove this use of "poll"; it is deprecated.(ËöÎ‹şÿÿÿÿ8ÅÂ¼½ü.
-†
-java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ïù˜8ÅÂ¼½ü.
+java:S3740@"/Provide the parametrized type for this generic.(ëÚ²8ôöÀ†/
+L
+java:S3740@"/Provide the parametrized type for this generic.(ëÚ²8ôöÀ†/
+L
+java:S3740B"/Provide the parametrized type for this generic.(—êá“8ôöÀ†/
+L
+java:S3740B"/Provide the parametrized type for this generic.(—êá“8ôöÀ†/
+L
+java:S3740W"/Provide the parametrized type for this generic.(ó ÌÄ8ôöÀ†/
+L
+java:S3740W"/Provide the parametrized type for this generic.(ó ÌÄ8ôöÀ†/
+a	java:S112M"FDefine and throw a dedicated exception instead of using a generic one.(ïù˜8ôöÀ†/
+J
+java:S1604"(Make this anonymous inner class a lambda(¾ªÛ¶ıÿÿÿÿ8ôöÀ†/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¾Èºıÿÿÿÿ8ôöÀ†/
+c
+java:S21421"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ôöÀ†/
+W
+java:S11187":Add a private constructor to hide the implicit public one.(·’Ë„8ôöÀ†/
+j	java:S100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êĞÏÖ8ôöÀ†/
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(Ûº‰şÿÿÿÿ8ôöÀ†/
+X	java:S125G"<This block of commented-out lines of code should be removed.(ÎëÓ8ôöÀ†/
+\
+java:S1118L":Add a private constructor to hide the implicit public one.(Ó£¢‚úÿÿÿÿ8ôöÀ†/
+i	java:S100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïù˜8ôöÀ†/
+ˆ
+java:S1130M"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ïù˜8ôöÀ†/
+T
+java:S1905]"2Remove this unnecessary cast to "ConsumerRecords".(ËöÎ‹şÿÿÿÿ8ôöÀ†/
+N
+java:S1874]",Remove this use of "poll"; it is deprecated.(ËöÎ‹şÿÿÿÿ8ôöÀ†/
+U	java:S106`"9Replace this use of System.out or System.err by a logger.(—ãÍ¦8ôöÀ†/

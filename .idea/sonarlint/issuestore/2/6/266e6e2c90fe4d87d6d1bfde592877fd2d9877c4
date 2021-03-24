@@ -1,33 +1,23 @@
 
-—
-java:S1192"wDefine a constant instead of duplicating this literal "org.apache.kafka.common.serialization.StringSerializer" 4 times.(Û”À»ıÿÿÿÿ8œ¤§¾ü.
-m
-java:S1192"RDefine a constant instead of duplicating this literal "bootstrap.servers" 3 times.(Š‚ä8·Ïš¾ü.
-y
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘Ôì¿ûÿÿÿÿ8´É¼½ü.
 k
 java:S2095"KUse try-with-resources or close this "KafkaProducer" in a "finally" clause.(µ‹ôêşÿÿÿÿ8èù¾ü.
-I
-java:S1444")Make this "public static url" field final(ë¦‰±úÿÿÿÿ8´É¼½ü.
-y
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(…œ“§úÿÿÿÿ8´É¼½ü.
-X	java:S106"9Replace this use of System.out or System.err by a logger.(ª¿üÿÿÿÿ8´É¼½ü.
-[	java:S125"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ãı¤Âü.
-y
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(üÄÏ¸üÿÿÿÿ8·Ïš¾ü.
-I
-java:S1481")Remove this unused "send" local variable.(Û¼úÛıÿÿÿÿ8ãı¤Âü.
 B
 java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8´É¼½ü.
-e	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(éù¸ÿÿÿÿÿ8Á“™¾ü.
-y
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ‹ôêşÿÿÿÿ8·Ïš¾ü.
-L
-java:S1874",Remove this use of "poll"; it is deprecated.(œê€¤úÿÿÿÿ8´É¼½ü.
-[	java:S125"<This block of commented-out lines of code should be removed.(ª’¢àúÿÿÿÿ8ãı¤Âü.
-o
-java:S1104"OMake url a static final constant or non-public and provide accessors if needed.(ë¦‰±úÿÿÿÿ8´É¼½ü.
-y
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ‹ôêşÿÿÿÿ8´É¼½ü.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ª¿üÿÿÿÿ8´É¼½ü.
 R
 java:S1905"2Remove this unnecessary cast to "ConsumerRecords".(œê€¤úÿÿÿÿ8´É¼½ü.
+[	java:S125"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ãı¤Âü.
+I
+java:S1481")Remove this unused "send" local variable.(Û¼úÛıÿÿÿÿ8ãı¤Âü.
+m
+java:S1192"RDefine a constant instead of duplicating this literal "bootstrap.servers" 3 times.(Š‚ä8·Ïš¾ü.
+L
+java:S1874",Remove this use of "poll"; it is deprecated.(œê€¤úÿÿÿÿ8´É¼½ü.
+I
+java:S1444")Make this "public static url" field final(ë¦‰±úÿÿÿÿ8´É¼½ü.
+[	java:S125"<This block of commented-out lines of code should be removed.(ª’¢àúÿÿÿÿ8ãı¤Âü.
+—
+java:S1192"wDefine a constant instead of duplicating this literal "org.apache.kafka.common.serialization.StringSerializer" 4 times.(Û”À»ıÿÿÿÿ8œ¤§¾ü.
+e	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(éù¸ÿÿÿÿÿ8Á“™¾ü.
+o
+java:S1104"OMake url a static final constant or non-public and provide accessors if needed.(ë¦‰±úÿÿÿÿ8´É¼½ü.
