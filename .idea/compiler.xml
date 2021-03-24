@@ -28,29 +28,44 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ActiveMq" target="8" />
-      <module name="Activemq" target="8" />
+      <module name="Activemq" target="1.8" />
       <module name="activemq.test" target="8" />
-      <module name="AOP" target="1.5" />
+      <module name="AOP" target="1.8" />
       <module name="apo.test" target="1.5" />
-      <module name="Dubbo" target="1.5" />
+      <module name="Dubbo" target="1.8" />
       <module name="dubbo.test.all" target="1.5" />
-      <module name="dubbo.test.one" target="1.5" />
-      <module name="dubbo.test.two" target="1.5" />
-      <module name="Exector" target="7" />
+      <module name="dubbo.test.one" target="1.8" />
+      <module name="dubbo.test.two" target="1.8" />
+      <module name="Exector" target="1.8" />
       <module name="ExectorTest" target="1.5" />
-      <module name="GetConfig" target="1.5" />
-      <module name="Kafka" target="8" />
+      <module name="GetConfig" target="1.8" />
+      <module name="Kafka" target="1.8" />
       <module name="kafka.test" target="1.5" />
-      <module name="Mybatics" target="1.5" />
+      <module name="Mybatics" target="1.8" />
       <module name="MybaticsRead" target="1.5" />
       <module name="Mybatis" target="1.5" />
-      <module name="MyCodeload1.0" target="1.5" />
-      <module name="Quartz" target="1.5" />
-      <module name="Redis" target="1.5" />
+      <module name="MyCodeload1.0" target="1.8" />
+      <module name="Quartz" target="1.8" />
+      <module name="Redis" target="1.8" />
       <module name="redis.test" target="1.5" />
-      <module name="SpringDemo" target="7" />
-      <module name="SpringEasy" target="7" />
-      <module name="Websocket" target="1.5" />
+      <module name="SpringDemo" target="1.8" />
+      <module name="SpringEasy" target="1.8" />
+      <module name="Websocket" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="AOP" options="-parameters" />
+      <module name="Activemq" options="-parameters" />
+      <module name="Exector" options="-parameters" />
+      <module name="GetConfig" options="-parameters" />
+      <module name="Kafka" options="-parameters" />
+      <module name="Mybatics" options="-parameters" />
+      <module name="Quartz" options="-parameters" />
+      <module name="Redis" options="-parameters" />
+      <module name="SpringDemo" options="-parameters" />
+      <module name="SpringEasy" options="-parameters" />
+      <module name="Websocket" options="-parameters" />
+    </option>
   </component>
 </project>
