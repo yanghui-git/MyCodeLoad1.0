@@ -1,7 +1,6 @@
 package com.yanghui.mybatics.config;
 
 import com.alibaba.druid.pool.DruidDataSource;
-import org.apache.ibatis.plugin.Interceptor;
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.mybatis.spring.SqlSessionFactoryBean;
 import org.mybatis.spring.annotation.MapperScan;
@@ -10,7 +9,6 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Primary;
 import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
-import org.springframework.jdbc.datasource.DataSourceTransactionManager;
 import org.springframework.stereotype.Component;
 
 import javax.sql.DataSource;
@@ -30,21 +28,15 @@ public class MybatisConfig {
         return sqlSessionFactoryBean.getObject();
     }
 
-    @Bean(name = "transactionManagerOfMaster")
-    @Primary
-    public DataSourceTransactionManager transactionManager() {
-        return new DataSourceTransactionManager(dataSourceConfig());
-    }
-
 
     @Bean("mysqlConfig")
     @Primary
     public DataSource dataSourceConfig(){
         DruidDataSource druidDataSource =new DruidDataSource();
-        druidDataSource.setUrl("jdbc:mysql://10.1.200.204:3306/showdb?useUnicode=true&characterEncoding=utf-8&useSSL=false");
-        druidDataSource.setUsername("yhtestshow");
-        druidDataSource.setPassword("DBuser123!");
-        druidDataSource.setDriverClassName("com.mysql.jdbc.Driver");
+        druidDataSource.setUrl("jdbc:mysql://10.20.178.137:3306/yhtest?useUnicode=true&characterEncoding=utf-8&useSSL=false");
+        druidDataSource.setUsername("root");
+        druidDataSource.setPassword("123456");
+        druidDataSource.setDriverClassName("com.mysql.cj.jdbc.Driver");
         return druidDataSource;
     }
 }

@@ -33,7 +33,7 @@ public class MybatisTestService {
     public Object testThree(@RequestParam(value = "tenantId", required = false) String tenantId) {
         // System.out.println(JSON.toJSONString(myBatisService.listAll(tenantId)));
         System.out.println("222222");
-        return myBatisService.listAll(tenantId);
+        return 666;
 
     }
 

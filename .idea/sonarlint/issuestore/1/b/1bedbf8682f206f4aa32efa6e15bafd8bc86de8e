@@ -1,18 +1,18 @@
 
+M	java:S106+"9Replace this use of System.out or System.err by a logger.(¼µŸM
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+l
+java:S4488("JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(³ï‹ùûÿÿÿÿ8õì†/
 P
 java:S1854,"5Remove this useless assignment to local variable "a".(¼ëıàşÿÿÿÿ
-]
-java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ª£†
+V	java:S125""<This block of commented-out lines of code should be removed.(•ı—Úùÿÿÿÿ
+V	java:S125*"<This block of commented-out lines of code should be removed.(•ı—Úùÿÿÿÿ
+l
+java:S4488 "JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¿ûğ½ûÿÿÿÿ8õì†/
 X
 java:S3518-"CMake sure this expression can't be zero before doing this division.(û"
+l
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(àÎ‹üÿÿÿÿ8õì†/
+d
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ª£†8õì†/
 M	java:S106#"9Replace this use of System.out or System.err by a logger.(¼µŸM
-N	java:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ
-e
-java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(àÎ‹üÿÿÿÿ
-e
-java:S4488 "JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¿ûğ½ûÿÿÿÿ
-V	java:S125""<This block of commented-out lines of code should be removed.(•ı—Úùÿÿÿÿ
-e
-java:S4488("JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(³ï‹ùûÿÿÿÿ
-V	java:S125*"<This block of commented-out lines of code should be removed.(•ı—Úùÿÿÿÿ
-M	java:S106+"9Replace this use of System.out or System.err by a logger.(¼µŸM
