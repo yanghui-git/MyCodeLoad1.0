@@ -1,0 +1,18 @@
+
+X
+java:S3518-"CMake sure this expression can't be zero before doing this division.(û"
+V	java:S125*"<This block of commented-out lines of code should be removed.(•ı—Úùÿÿÿÿ
+e
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(àÎ‹üÿÿÿÿ
+e
+java:S4488("JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(³ï‹ùûÿÿÿÿ
+M	java:S106+"9Replace this use of System.out or System.err by a logger.(¼µŸM
+V	java:S125""<This block of commented-out lines of code should be removed.(•ı—Úùÿÿÿÿ
+]
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ª£†
+e
+java:S4488 "JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¿ûğ½ûÿÿÿÿ
+M	java:S106#"9Replace this use of System.out or System.err by a logger.(¼µŸM
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+P
+java:S1854,"5Remove this useless assignment to local variable "a".(¼ëıàşÿÿÿÿ

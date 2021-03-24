@@ -1,0 +1,11 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(íúç¦ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(œñ›Öþÿÿÿÿ
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(© »©
+Y
+java:S1854">Remove this useless assignment to local variable "staticTest".(Ëû±öþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ïšâ¥
+J
+java:S1481"/Remove this unused "staticTest" local variable.(Ëû±öþÿÿÿÿ

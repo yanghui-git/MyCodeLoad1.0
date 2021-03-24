@@ -1,0 +1,15 @@
+
+F
+java:S1444
+"+Make this "public static jedis" field final(¾—©¼þÿÿÿÿ
+l
+java:S1104
+"QMake jedis a static final constant or non-public and provide accessors if needed.(¾—©¼þÿÿÿÿ
+s
+java:S1488 "^Immediately return this expression instead of assigning it to the temporary variable "result".(ëï¹
+y
+java:S1488("^Immediately return this expression instead of assigning it to the temporary variable "result".(’â‰Áøÿÿÿÿ
+t
+java:S14880"^Immediately return this expression instead of assigning it to the temporary variable "result".(Óùïý
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ê¶î­ûÿÿÿÿ
