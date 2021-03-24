@@ -15,6 +15,7 @@ public class StudentLombok {
 
     Long phone;
 
+
     public static void main(String[] args) {
         StudentLombok studentLombok = StudentLombok.builder().name("haha").age(100).build();
         System.out.println(studentLombok);

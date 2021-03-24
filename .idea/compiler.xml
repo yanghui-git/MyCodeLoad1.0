@@ -29,7 +29,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ActiveMq" target="8" />
-      <module name="Activemq" target="1.5" />
+      <module name="Activemq" target="7" />
       <module name="activemq.test" target="8" />
       <module name="AOP" target="1.5" />
       <module name="apo.test" target="1.5" />
@@ -49,7 +49,7 @@
       <module name="Quartz" target="1.5" />
       <module name="Redis" target="1.5" />
       <module name="redis.test" target="1.5" />
-      <module name="SpringDemo" target="1.5" />
+      <module name="SpringDemo" target="7" />
       <module name="SpringEasy" target="7" />
       <module name="Websocket" target="1.5" />
     </bytecodeTargetLevel>
