@@ -1,6 +1,7 @@
 package com.yanghui.mybatics.test;
 
 
+import com.yanghui.mybatics.mapper.StudentMapper;
 import com.yanghui.mybatics.service.MyBatisService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.transaction.annotation.Transactional;
@@ -16,6 +17,9 @@ public class MybatisTestService {
 
     @Autowired
     private MyBatisService myBatisService;
+
+    @Autowired
+    private StudentMapper studentMapper;
 
 
     @RequestMapping(value = "/one", method = RequestMethod.GET)
@@ -41,9 +45,12 @@ public class MybatisTestService {
     public Object testFour(@RequestParam(value = "name", required = true) String name) {
         // System.out.println(JSON.toJSONString(myBatisService.listAll(tenantId)));
         System.out.println("222222");
-        int a = myBatisService.testFour(name);
-        a = 1 / 0;
-        return a;
+        myBatisService.testFour(name);
+        return 2;
     }
 
+    @RequestMapping(value = "/five", method = RequestMethod.GET)
+    public void testFive(@RequestParam(value = "name", required = true) String name) {
+        studentMapper.deleteByName(name);
+    }
 }

@@ -9,31 +9,30 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Primary;
 import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
-import org.springframework.stereotype.Component;
 
 import javax.sql.DataSource;
 
 @Configuration
-@Component
 @MapperScan(basePackages = "com.yanghui.mybatics,mapper", sqlSessionFactoryRef = "sqlSessionFactoryOfMaster")
 public class MybatisConfig {
 
     @Bean("sqlSessionFactoryOfMaster")
     @Primary
     public SqlSessionFactory sqlSessionFactory(@Qualifier("mysqlConfig") DataSource dataSource) throws Exception {
-        final SqlSessionFactoryBean sqlSessionFactoryBean =new SqlSessionFactoryBean();
+        SqlSessionFactoryBean sqlSessionFactoryBean = new SqlSessionFactoryBean();
         sqlSessionFactoryBean.setDataSource(dataSource);
         System.out.println("1111111");
-        sqlSessionFactoryBean.setMapperLocations(new PathMatchingResourcePatternResolver().getResources("classpath*:mapper/*.xml"));;
+        sqlSessionFactoryBean.setMapperLocations(new PathMatchingResourcePatternResolver().getResources("classpath*:mapper/*.xml"));
+        ;
         return sqlSessionFactoryBean.getObject();
     }
 
 
     @Bean("mysqlConfig")
     @Primary
-    public DataSource dataSourceConfig(){
-        DruidDataSource druidDataSource =new DruidDataSource();
-        druidDataSource.setUrl("jdbc:mysql://10.20.178.137:3306/yhtest?useUnicode=true&characterEncoding=utf-8&useSSL=false");
+    public DataSource dataSourceConfig() {
+        DruidDataSource druidDataSource = new DruidDataSource();
+        druidDataSource.setUrl("jdbc:mysql://10.20.178.137:3306/yhtest");
         druidDataSource.setUsername("root");
         druidDataSource.setPassword("123456");
         druidDataSource.setDriverClassName("com.mysql.cj.jdbc.Driver");

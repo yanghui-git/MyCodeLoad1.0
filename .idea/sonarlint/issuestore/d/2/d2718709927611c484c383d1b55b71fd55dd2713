@@ -1,40 +1,40 @@
 
-o
-java:S2095†"XUse try-with-resources or close this "GzipCompressorOutputStream" in a "finally" clause.(ñ«ô‹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ûŞÓ
+Q	java:S125N"<This block of commented-out lines of code should be removed.(Ú°ÜÒ
+W	java:S125”"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+j
+java:S4042É"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¢ïèøÿÿÿÿ
+F
+java:S2093±"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
 m
 java:S2095…"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(É›¡Ôüÿÿÿÿ
-m
-java:S2095f"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(Ä¹Œùÿÿÿÿ
 V
 java:S2259?"@A "NullPointerException" could be thrown; "os" is nullable here.(œñÑ
-W
-java:S2259:"AA "NullPointerException" could be thrown; "out" is nullable here.(„¸Ç§
-S	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ûŞÓ
-Q	java:S1257"<This block of commented-out lines of code should be removed.(†€éˆ
-Q	java:S125<"<This block of commented-out lines of code should be removed.(†€éˆ
 Q	java:S125A"<This block of commented-out lines of code should be removed.(†€éˆ
+E
+java:S2093`"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
 i
 java:S4042E"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(£Çá¼ıÿÿÿÿ
 U	java:S899E";Do something with the "boolean" value returned by "delete".(£Çá¼ıÿÿÿÿ
 E
 java:S2093-"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
-Q	java:S125N"<This block of commented-out lines of code should be removed.(Ú°ÜÒ
+T	java:S106Ã"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+W
+java:S2259:"AA "NullPointerException" could be thrown; "out" is nullable here.(„¸Ç§
+N	java:S106w"9Replace this use of System.out or System.err by a logger.(âÉ’
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
 N
 java:S1197h"8Move the array designator from the variable to the type.(²ÙÜœ
+m
+java:S2095f"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(Ä¹Œùÿÿÿÿ
+Q	java:S1257"<This block of commented-out lines of code should be removed.(†€éˆ
 i
 java:S4042v"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ÌÇ§Äøÿÿÿÿ
-N	java:S106w"9Replace this use of System.out or System.err by a logger.(âÉ’
-E
-java:S2093`"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Q	java:S125<"<This block of commented-out lines of code should be removed.(†€éˆ
+Q	java:S899";Do something with the "boolean" value returned by "delete".(§·ˆ•
+O	java:S106Ê"9Replace this use of System.out or System.err by a logger.(Ö¤Óà
 e
 java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(§·ˆ•
-Q	java:S899";Do something with the "boolean" value returned by "delete".(§·ˆ•
-W	java:S125”"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+o
+java:S2095†"XUse try-with-resources or close this "GzipCompressorOutputStream" in a "finally" clause.(ñ«ô‹
 O	java:S106"9Replace this use of System.out or System.err by a logger.(ê·‘©
-T	java:S106Ã"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
-j
-java:S4042É"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¢ïèøÿÿÿÿ
-O	java:S106Ê"9Replace this use of System.out or System.err by a logger.(Ö¤Óà
-F
-java:S2093±"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

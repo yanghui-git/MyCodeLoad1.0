@@ -1,7 +1,6 @@
 
-X	java:S106"9Replace this use of System.out or System.err by a logger.(Õøš±şÿÿÿÿ8í×ı½ü.
-S	java:S106"9Replace this use of System.out or System.err by a logger.(“±—–8Ö·©Âü.
-S	java:S106"9Replace this use of System.out or System.err by a logger.(†ê8ã¿¡Âü.
-X	java:S106"9Replace this use of System.out or System.err by a logger.(„˜Ù¶ÿÿÿÿÿ8ã¿¡Âü.
-P
-java:S1128"6Remove this unused import 'com.alibaba.fastjson.JSON'.(Ö¢å$8ˆæ´¾ü.
+W	java:S125"<This block of commented-out lines of code should be removed.(íœê`8’àïâ/
+R
+java:S1128"6Remove this unused import 'com.alibaba.fastjson.JSON'.(Ö¢å$8ˆæ´¾ü.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(“±—–8Ö·©Âü.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Õøš±şÿÿÿÿ8í×ı½ü.

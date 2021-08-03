@@ -1,14 +1,14 @@
 
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äÁˆâÿÿÿÿÿ
+^
+java:S4488%"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(í™µÄ
+c
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(†ÐÄ·ùÿÿÿÿ
 ]
 java:S1128"BRemove this unused import 'javafx.beans.binding.ObjectExpression'.(ì‡Áéùÿÿÿÿ
 E
 java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äÁˆâÿÿÿÿÿ
 F
 java:S1128"+Remove this unused import 'org.junit.Test'.(ùžøèøÿÿÿÿ
 I
 java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
-c
-java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(†ÐÄ·ùÿÿÿÿ
-^
-java:S4488%"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(í™µÄ

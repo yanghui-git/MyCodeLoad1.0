@@ -1,45 +1,49 @@
 
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(¯¾¸úÿÿÿÿ
-5
-java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ
-B
-java:S1444".Make this "public static userName" field final(ğï©È
-<	java:S108")Either remove or fill this block of code.(”ı¾
-<	java:S108")Either remove or fill this block of code.(”ı¾
-a	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â‹‚æ
-h
-java:S1104"TMake userName a static final constant or non-public and provide accessors if needed.(ğï©È
-Y	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ú¿ÑÈ
-<	java:S108")Either remove or fill this block of code.(”ı¾
-Ã
-java:S5301"®Secure this "ActiveMQConnectionFactory" by whitelisting the trusted packages using the "setTrustedPackages" method and make sure the "setTrustAllPackages" is not set to true.(—»úä
-Y	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Â‹‚æ
-5
-java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ
+>	java:S108")Either remove or fill this block of code.(”ı¾
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(ïÕèç
+F
+java:S1444"+Make this "public static mqUrl" field final(ÆŠÄîúÿÿÿÿ
 K
-java:S1444"2Make this "public static userPassword" field final(Œô¨¤ùÿÿÿÿ
-q
-java:S1104"XMake userPassword a static final constant or non-public and provide accessors if needed.(Œô¨¤ùÿÿÿÿ
-Y	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(àÜÓ½
-Ã
-java:S5301"®Secure this "ActiveMQConnectionFactory" by whitelisting the trusted packages using the "setTrustedPackages" method and make sure the "setTrustAllPackages" is not set to true.(—»úä
-L	java:S106"9Replace this use of System.out or System.err by a logger.(ïÕèç
-Ã
-java:S5301"®Secure this "ActiveMQConnectionFactory" by whitelisting the trusted packages using the "setTrustedPackages" method and make sure the "setTrustAllPackages" is not set to true.(—»úä
-T	java:S125"<This block of commented-out lines of code should be removed.(À×ôóúÿÿÿÿ
+java:S1604"(Make this anonymous inner class a lambda(†ºø£şÿÿÿÿ8ñ„çë†/
+[	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(Ú¿ÑÈ
+F
+java:S1128"+Remove this unused import 'org.junit.Test'.(ùøèøÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'org.apache.activemq.Service'.(¿êÔ¸øÿÿÿÿ
+s
+java:S1104"XMake userPassword a static final constant or non-public and provide accessors if needed.(Œô¨¤ùÿÿÿÿ
+M
+java:S1444"2Make this "public static userPassword" field final(Œô¨¤ùÿÿÿÿ
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Â‹‚æ
+J
+java:S1604h"(Make this anonymous inner class a lambda(†ºø£şÿÿÿÿ8ñ„çë†/
+Å
+java:S5301="®Secure this "ActiveMQConnectionFactory" by whitelisting the trusted packages using the "setTrustedPackages" method and make sure the "setTrustAllPackages" is not set to true.(—»úä
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(¯¾¸úÿÿÿÿ
+e
+java:S1192G"ODefine a constant instead of duplicating this literal "test-topic-666" 3 times.(ÿÓƒç
+[	java:S112Z"FDefine and throw a dedicated exception instead of using a generic one.(àÜÓ½
+>	java:S1080")Either remove or fill this block of code.(”ı¾
+7
+java:S11164"Remove this empty statement.(Åñ­õşÿÿÿÿ
+V	java:S125K"<This block of commented-out lines of code should be removed.(À×ôóúÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â‹‚æ
+>	java:S108$")Either remove or fill this block of code.(”ı¾
+N	java:S106™"9Replace this use of System.out or System.err by a logger.(Ò”
+c	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¿ÑÈ
+Æ
+java:S5301"®Secure this "ActiveMQConnectionFactory" by whitelisting the trusted packages using the "setTrustedPackages" method and make sure the "setTrustAllPackages" is not set to true.(—»úä
+7
+java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ
+Å
+java:S5301\"®Secure this "ActiveMQConnectionFactory" by whitelisting the trusted packages using the "setTrustedPackages" method and make sure the "setTrustAllPackages" is not set to true.(—»úä
 D
-java:S1128"+Remove this unused import 'org.junit.Test'.(ùøèøÿÿÿÿ
-5
-java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ
-K	java:S106"9Replace this use of System.out or System.err by a logger.(Ò”
+java:S1444".Make this "public static userName" field final(ğï©È
+l
+java:S1104"QMake mqUrl a static final constant or non-public and provide accessors if needed.(ÆŠÄîúÿÿÿÿ
+c	java:S100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÜÓ½
 j
-java:S1104"QMake mqUrl a static final constant or non-public and provide accessors if needed.(ÆŠÄîúÿÿÿÿ
-D
-java:S1444"+Make this "public static mqUrl" field final(ÆŠÄîúÿÿÿÿ
-c
-java:S1192"ODefine a constant instead of duplicating this literal "test-topic-666" 3 times.(ÿÓƒç
-Q
-java:S1128"8Remove this unused import 'org.apache.activemq.Service'.(¿êÔ¸øÿÿÿÿ
-a	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¿ÑÈ
-a	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÜÓ½
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(í©´óÿÿÿÿÿ
+java:S1104"TMake userName a static final constant or non-public and provide accessors if needed.(ğï©È
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(í©´óÿÿÿÿÿ
+7
+java:S1116("Remove this empty statement.(Åñ­õşÿÿÿÿ

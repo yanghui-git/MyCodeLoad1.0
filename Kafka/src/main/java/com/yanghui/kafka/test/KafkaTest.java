@@ -20,7 +20,6 @@ public class KafkaTest {
     public static void main(String[] args) {
         produceTest();
         consumerTest();
-
     }
 
     public static void produceTest() {
@@ -61,10 +60,10 @@ public class KafkaTest {
         properties.put("value.serializer", "org.apache.kafka.common.serialization.StringSerializer");
         org.apache.kafka.clients.producer.Producer<String, String> producer = new KafkaProducer<String, String>(properties);
         boolean send = true;
-     //   while (send) {
-            Thread.sleep(3000L);
-            producer.send(new ProducerRecord<String, String>("consumerTest", "hello kafka"));
-    //    }
+        //   while (send) {
+        Thread.sleep(3000L);
+        producer.send(new ProducerRecord<String, String>("consumerTest", "hello kafka"));
+        //    }
         producer.close();
     }
 }

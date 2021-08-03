@@ -22,7 +22,7 @@ public class KafkaConsumerTest {
         System.out.println("one one" + consumerRecord.value());
     }
 
-    @KafkaListener(topics = "consumerTest", groupId = "two")
+   /* @KafkaListener(topics = "consumerTest", groupId = "two")
     public void consumer2(ConsumerRecord<String, String> consumerRecord) {
         System.out.println("two" + consumerRecord.value());
     }
@@ -30,5 +30,5 @@ public class KafkaConsumerTest {
     @KafkaListener(topics = "consumerTest", groupId = "three")
     public void consumer3(ConsumerRecord<String, String> consumerRecord) {
         System.out.println("three" + consumerRecord.value());
-    }
+    }*/
 }

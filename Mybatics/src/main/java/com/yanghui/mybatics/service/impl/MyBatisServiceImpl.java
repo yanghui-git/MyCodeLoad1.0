@@ -21,8 +21,9 @@ public class MyBatisServiceImpl implements MyBatisService {
         return "MyBaticsServiceImpl" + name + age;
     }
 
-    public int testFour(String name) {
-        return studentMapper.deleteByName(name);
+    public void testFour(String name) {
+        System.out.println("hahahha");
+        studentMapper.deleteByName(name);
     }
 
 

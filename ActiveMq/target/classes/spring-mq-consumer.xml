@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://www.springframework.org/schema/beans"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        ">
+
+
+    <bean id="cachingConnectionFactory" class="org.springframework.jms.connection.CachingConnectionFactory">
+        <property name="targetConnectionFactory">
+            <bean class="org.apache.activemq.ActiveMQConnectionFactory">
+                <property name="brokerURL" value="#{T(com.yanghui.activemq.jms.MqConfig).brokerUrl}"/>
+                <property name="useAsyncSend" value="true"/>
+                <property name="clientIDPrefix" value="yh-test"/>
+            </bean>
+        </property>
+        <property name="sessionCacheSize" value="100"/>
+    </bean>
+
+
+    <bean id="activeMQDestination" class="org.apache.activemq.command.ActiveMQTopic">
+        <constructor-arg value="#{T(com.yanghui.activemq.jms.MqConfig).mqName}"/>
+    </bean>
+
+    <!--消费者-->
+    <bean id="simpleMessageListenerContainer" class="org.springframework.jms.listener.SimpleMessageListenerContainer">
+        <property name="connectionFactory" ref="cachingConnectionFactory"/>
+        <property name="destination" ref="activeMQDestination"/>
+        <property name="messageListener" ref="mqConsumer"/>
+    </bean>
+
+    <bean id="mqConsumer" class="com.yanghui.activemq.jms.util.MqConsumer"/>
+</beans>
