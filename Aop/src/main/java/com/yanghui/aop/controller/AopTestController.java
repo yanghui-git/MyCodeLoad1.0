@@ -1,6 +1,4 @@
 package com.yanghui.aop.controller;
-
-import com.yanghui.annotation.annotationandaop.AnnotationYh;
 import com.yanghui.annotation.annotationandaop.TestAll;
 import com.yanghui.aop.TestAop;
 import com.yanghui.aop.TestAopTwo;

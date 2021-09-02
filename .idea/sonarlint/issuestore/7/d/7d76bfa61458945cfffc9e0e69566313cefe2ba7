@@ -1,16 +1,16 @@
 
-Y
-java:S2259"@A "NullPointerException" could be thrown; "ia" is nullable here.(›áÔÜüÿÿÿÿ
-N
-java:S2209"5Change this instance-reference to a static reference.(›áÔÜüÿÿÿÿ
-0
-java:S1220""Move this file to a named package.
-\
-java:S1854"CRemove this useless assignment to local variable "executorService".(”ñÂ¥ıÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(ıã³Ğøÿÿÿÿ
-5
-java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ
+P
+java:S2209:"5Change this instance-reference to a static reference.(›áÔÜüÿÿÿÿ
+^
+java:S1854"CRemove this useless assignment to local variable "executorService".(”ñÂ¥ıÿÿÿÿ
+[
+java:S2259:"@A "NullPointerException" could be thrown; "ia" is nullable here.(›áÔÜüÿÿÿÿ
 M
-java:S1481"4Remove this unused "executorService" local variable.(”ñÂ¥ıÿÿÿÿ
-K
-java:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+java:S1135>"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(”ñÂ¥ıÿÿÿÿ8ì´²Õ°/
+O
+java:S1481"4Remove this unused "executorService" local variable.(”ñÂ¥ıÿÿÿÿ
+>
+java:S11163"Remove this empty statement.(Åñ­õşÿÿÿÿ8ç±ÀÕ°/
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ıã³Ğøÿÿÿÿ

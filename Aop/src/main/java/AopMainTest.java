@@ -8,6 +8,9 @@ import org.springframework.context.annotation.ImportResource;
  * 一起来学习Spring：Spring入门与AOP篇
  * https://www.jianshu.com/p/23ecb9dfc0ad
  *
+ * https://blog.csdn.net/xc123_java/article/details/90448446 (核心源码解析)
+ *
+ *
  */
 @SpringBootApplication
 @ComponentScan(basePackages ={"com.yanghui.aop","com.yanghui.annotation.annotationandaop"})

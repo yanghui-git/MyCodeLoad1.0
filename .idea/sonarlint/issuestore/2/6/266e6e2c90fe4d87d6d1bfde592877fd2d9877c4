@@ -1,33 +1,33 @@
 
-{
-java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(‘Ôì¿ûÿÿÿÿ8Ğ †é†/
-{
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ‹ôêşÿÿÿÿ8Ğ †é†/
-{
-java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(…œ“§úÿÿÿÿ8Ğ †é†/
-{
-java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(µ‹ôêşÿÿÿÿ8Ğ †é†/
-o
-java:S1192"RDefine a constant instead of duplicating this literal "bootstrap.servers" 3 times.(Š‚ä8·Ïš¾ü.
-K
-java:S1444")Make this "public static url" field final(ë¦‰±úÿÿÿÿ8´É¼½ü.
-{
-java:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(üÄÏ¸üÿÿÿÿ8Ğ †é†/
-]	java:S125?"<This block of commented-out lines of code should be removed.(ª’¢àúÿÿÿÿ8ãı¤Âü.
-Z	java:S1061"9Replace this use of System.out or System.err by a logger.(ª¿üÿÿÿÿ8´É¼½ü.
-D
-java:S2189/""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8´É¼½ü.
-q
-java:S1104"OMake url a static final constant or non-public and provide accessors if needed.(ë¦‰±úÿÿÿÿ8´É¼½ü.
-K
-java:S1481>")Remove this unused "send" local variable.(Û¼úÛıÿÿÿÿ8ãı¤Âü.
-T
-java:S19050"2Remove this unnecessary cast to "ConsumerRecords".(œê€¤úÿÿÿÿ8´É¼½ü.
-N
-java:S18740",Remove this use of "poll"; it is deprecated.(œê€¤úÿÿÿÿ8´É¼½ü.
-™
-java:S1192"wDefine a constant instead of duplicating this literal "org.apache.kafka.common.serialization.StringSerializer" 4 times.(Û”À»ıÿÿÿÿ8œ¤§¾ü.
 m
 java:S2095="KUse try-with-resources or close this "KafkaProducer" in a "finally" clause.(µ‹ôêşÿÿÿÿ8èù¾ü.
 g	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(éù¸ÿÿÿÿÿ8Á“™¾ü.
+T
+java:S19050"2Remove this unnecessary cast to "ConsumerRecords".(œê€¤úÿÿÿÿ8´É¼½ü.
+o
+java:S1192"RDefine a constant instead of duplicating this literal "bootstrap.servers" 3 times.(Š‚ä8·Ïš¾ü.
+q
+java:S1104"OMake url a static final constant or non-public and provide accessors if needed.(ë¦‰±úÿÿÿÿ8´É¼½ü.
+{
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(µ‹ôêşÿÿÿÿ8Ğ †é†/
+N
+java:S18740",Remove this use of "poll"; it is deprecated.(œê€¤úÿÿÿÿ8´É¼½ü.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ‹ôêşÿÿÿÿ8Ğ †é†/
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(ª¿üÿÿÿÿ8´É¼½ü.
+K
+java:S1444")Make this "public static url" field final(ë¦‰±úÿÿÿÿ8´É¼½ü.
 ]	java:S125B"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ãı¤Âü.
+™
+java:S1192"wDefine a constant instead of duplicating this literal "org.apache.kafka.common.serialization.StringSerializer" 4 times.(Û”À»ıÿÿÿÿ8œ¤§¾ü.
+{
+java:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(üÄÏ¸üÿÿÿÿ8Ğ †é†/
+K
+java:S1481>")Remove this unused "send" local variable.(Û¼úÛıÿÿÿÿ8ãı¤Âü.
+D
+java:S2189/""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8´É¼½ü.
+{
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(‘Ôì¿ûÿÿÿÿ8Ğ †é†/
+]	java:S125?"<This block of commented-out lines of code should be removed.(ª’¢àúÿÿÿÿ8ãı¤Âü.
+{
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(…œ“§úÿÿÿÿ8Ğ †é†/

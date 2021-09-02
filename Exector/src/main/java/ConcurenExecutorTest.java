@@ -48,8 +48,6 @@ public class ConcurenExecutorTest {
         Executors.newFixedThreadPool(5);
 //允许创建的线程数量为 Integer.MAX_VALUE，可能会创建大量的线程，导致发生OOM
         Executors.newCachedThreadPool();
-
-
     }
 
 
